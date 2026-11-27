@@ -1,0 +1,7 @@
+{
+  "name": "hues-media-server",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-01-01",
+  "routes": [{ "pattern": "media.hues.flowers", "custom_domain": true }],
+  "r2_buckets": [{ "binding": "MEDIA", "bucket_name": "hues-media" }]
+}
