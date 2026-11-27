@@ -1,0 +1,245 @@
+/* Base: reset, type roles (Thea's sys.type, applied per Mina §5.2), buttons,
+   focus, utilities. Values resolve to tokens.css names only. */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-ui);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: var(--color-gold-ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-gold-3);
+  outline-offset: 2px;
+}
+
+.photo-stage :focus-visible {
+  outline-color: var(--color-gold-2);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.skip-link {
+  position: absolute;
+  left: var(--space-200);
+  top: -100px;
+  z-index: 100;
+  background: var(--color-deep);
+  color: var(--color-paper-1);
+  padding: var(--space-150) var(--space-200);
+  border-radius: var(--radius-full);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.skip-link:focus-visible {
+  top: var(--space-200);
+  outline-color: var(--color-gold-2);
+}
+
+/* Type roles — family + weight + size + leading travel together. */
+.t-display {
+  font-family: var(--font-display);
+  font-weight: 560;
+  font-size: 49px;
+  line-height: 1.08;
+  color: var(--color-deep);
+}
+
+@media (min-width: 1280px) {
+  .t-display--xl {
+    font-size: 61px;
+    line-height: 1.05;
+  }
+}
+
+.t-h1 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 39px;
+  line-height: 1.12;
+  color: var(--color-deep);
+}
+
+.t-h2 {
+  font-family: var(--font-display);
+  font-weight: 560;
+  font-size: 31px;
+  line-height: 1.2;
+  color: var(--color-deep);
+}
+
+.t-title {
+  font-family: var(--font-display);
+  font-weight: 560;
+  font-size: 20px;
+  line-height: 1.35;
+  color: var(--color-deep);
+}
+
+.t-lede {
+  font-family: var(--font-editorial);
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: var(--measure-prose);
+}
+
+.t-body-serif {
+  font-family: var(--font-editorial);
+  font-size: 17px;
+  line-height: 1.6;
+  max-width: var(--measure-prose);
+}
+
+.t-body {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.t-body-sm {
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.t-label {
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.t-caption {
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.t-caps {
+  font-size: 12px;
+  line-height: 1.4;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.t-num {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Buttons (comp.button dress). */
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 10px 20px;
+  border-radius: var(--radius-full);
+  font-family: var(--font-ui);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.45;
+  text-decoration: none;
+  border: 1px solid transparent;
+  cursor: pointer;
+}
+
+.button--secondary {
+  background: var(--color-surface);
+  color: var(--color-deep);
+  border-color: var(--color-deep);
+}
+
+.button-quiet {
+  background: none;
+  border: 0;
+  color: var(--color-gold-ink);
+  font-family: var(--font-ui);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.45;
+  min-height: 44px;
+  padding: 10px 12px;
+  cursor: pointer;
+}
+
+.button-quiet:hover {
+  text-decoration: underline;
+}
+
+/* Wing chips — shared by the nav strip and the 404 page. */
+.wing-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-100);
+  min-height: 44px;
+  padding: var(--space-150) var(--space-200);
+  border-radius: var(--radius-full);
+  border: 1px solid var(--color-line-2);
+  color: var(--color-ink);
+  background: transparent;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.45;
+  white-space: nowrap;
+}
+
+.wing-chip.is-active {
+  background: var(--color-deep);
+  border-color: var(--color-deep);
+  color: var(--color-paper-1);
+}
+
+.wing-chip.is-active .wing-chip-label {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.wing-marker {
+  display: inline-block;
+  flex: none;
+  border: 1.5px solid var(--color-deep);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}

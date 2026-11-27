@@ -13,3 +13,10 @@ shell; museum HTML responses carry `noindex`, media responses never do.
 - Museum app: `app/` (React + TypeScript SPA, no PWA — deliberate)
 - Build/verify gate: `npm run verify`
 - Deploy: `npm run deploy` (wrangler), run by Hue after a gated merge — never by CI.
+
+How the shell is served: `app/` builds to a single self-contained
+`app/dist/index.html` (JS/CSS inlined, no separate assets), which is committed
+and embedded into the Worker bundle as `src/shell.ts` by
+`app/scripts/embed-shell.mjs` during `npm --prefix app run build`. The Worker
+imports that string and serves it at 200 with `X-Robots-Tag: noindex` on the
+museum's app routes only — media responses never carry it.
