@@ -1,0 +1,87 @@
+/* Local design tokens, transcribed from Mina's UI design (§1–§8) and the
+   @hues token values it cites. Every colour, space, radius, motion, and type
+   value in the museum resolves to one of these names — no hex, no raw px for
+   spacing/radius/type, no invented durations anywhere else in app code. */
+:root {
+  /* Grounds (theme.park + the one evening register) */
+  --color-bg: #f7f1de; /* paper-1 — page ground */
+  --color-surface: #fffdf4; /* paper-0 — cards, fields, panels, art mat */
+  --color-bg-recessed: #f1e8cf; /* paper-2 — recessed wells only */
+  --color-deep: #23362b; /* header/footer ground, selected fills */
+  --color-ground-evening: #1c2a21; /* deep-2 — photo stage, player, room heads */
+
+  /* Text steps on the light grounds */
+  --color-ink: #2e4438;
+  --color-pine-2: #43534a;
+  --color-sage-ink: #4e5d47;
+
+  /* Text/graphics on the evening ground */
+  --color-paper-1: #f7f1de;
+  --color-sage-1: #cdd8c6;
+  --color-gold-1: #e8cf8f;
+  --color-white: #ffffff;
+  --color-poppy: #d85434; /* player graphics only, never text */
+
+  /* Gold discipline */
+  --color-gold-2: #b08d37; /* graphics/rules/stitch/keyline only, never text */
+  --color-gold-3: #927128; /* light-ground focus ring, stitch, large only */
+  --color-gold-ink: #86691f; /* the only text gold; never on paper-2 */
+
+  /* Boundaries */
+  --color-line-1: color-mix(in srgb, var(--color-gold-2) 35%, var(--color-bg));
+  --color-line-2: #a08c5a;
+  --color-ink-soft: #71806c;
+
+  /* Wing marker fills — infill only, never text, never alone (§1.4) */
+  --color-marker-dahlias: #d1603d;
+  --color-marker-park: #5b6fa6;
+  --color-marker-music: #e9b83a;
+  --color-marker-art: #8e6cc0;
+  --color-marker-arcade: #d77fa8;
+
+  /* Type faces */
+  --font-display: 'Fraunces', Georgia, 'Times New Roman', serif;
+  --font-editorial: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --font-ui: 'Source Sans 3', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  /* Spacing (ref.space / ref.layout) */
+  --space-25: 2px;
+  --space-50: 4px;
+  --space-100: 8px;
+  --space-150: 12px;
+  --space-200: 16px;
+  --space-250: 20px;
+  --space-300: 24px;
+  --space-400: 32px;
+  --space-500: 40px;
+  --space-600: 48px;
+  --layout-200: 16px;
+  --layout-300: 24px;
+  --layout-400: 32px;
+  --layout-600: 48px;
+  --layout-800: 64px;
+  --layout-1200: 96px;
+
+  /* Radius (ref.radius) */
+  --radius-sm: 8px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+  --radius-player: 22px;
+
+  /* Motion (ref.motion — the only durations/easing in the museum) */
+  --motion-press: 150ms;
+  --motion-state: 200ms;
+  --motion-sheet: 300ms;
+  --motion-reveal: 700ms;
+  --motion-highlight: 1200ms;
+  --ease-out: cubic-bezier(0.22, 0.9, 0.3, 1);
+
+  /* Elevation anchors */
+  --z-header: 50;
+  --z-player: 50;
+
+  /* Page geometry */
+  --content-max: 1280px;
+  --measure-prose: 65ch;
+}

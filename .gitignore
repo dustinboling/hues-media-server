@@ -1,6 +1,7 @@
 node_modules/
 .wrangler/
-dist/
-app/dist/
+/dist/
 *.log
 .DS_Store
+# NOTE: app/dist/ is intentionally NOT ignored — the built museum shell is
+# committed (slice-1 brief) and embedded into the Worker bundle at build time.
