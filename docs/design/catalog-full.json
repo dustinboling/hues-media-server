@@ -1,0 +1,7228 @@
+[
+ {
+  "aliases": [
+   "hues/desktop-art/home-hero-golden-hour-20261112.webp"
+  ],
+  "altText": "Watercolor panorama of Hues Floral Park at golden hour: a winding path between color-blocked dahlia beds, string lights strung above the beds, hills behind, the whole scene inside a painted paper border.",
+  "captionLong": "The painting the main site opens with: the winding path between the color-blocked beds, string lights overhead, hills behind. It is the only wide panorama of the grounds in the collection, which is why a painting fronts a wing of photographs.",
+  "captionShort": "The park in watercolor — beds, paths and string lights at golden hour.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "webp",
+  "group": "The Grounds",
+  "keywords": [
+   "golden hour",
+   "painting",
+   "watercolor",
+   "dahlia beds",
+   "string lights",
+   "path",
+   "panorama",
+   "park"
+  ],
+  "mediaKey": "hues/home/hero-golden-hour.webp",
+  "mediaType": "image",
+  "nativeHeight": 1080,
+  "nativeWidth": 1920,
+  "provenance": "painting",
+  "slug": "golden-hour-over-the-beds",
+  "title": "Golden Hour Over the Beds",
+  "whereUsed": "Home page hero (desktop site)",
+  "wing": "park"
+ },
+ {
+  "altText": "Watercolor of Hues Floral Park in the evening — a curving stone path between cottage dahlia beds, string lights glowing overhead",
+  "captionShort": "A curving stone path between the cottage beds, string lights glowing overhead.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Beds & Blooms",
+  "keywords": [
+   "evening",
+   "painting",
+   "watercolor",
+   "stone path",
+   "dahlia beds",
+   "string lights",
+   "park"
+  ],
+  "mediaKey": "hues/desktop-art/floral-park-head-20261112.webp",
+  "mediaType": "image",
+  "nativeHeight": 823,
+  "nativeWidth": 1920,
+  "provenance": "painting",
+  "slug": "evening-over-the-beds",
+  "title": "Evening Over the Beds",
+  "whereUsed": "Floral Park page head plate",
+  "wing": "park"
+ },
+ {
+  "aliases": [
+   "hues/home/dusk-string-lights-dahlias.webp"
+  ],
+  "altText": "Photograph at dusk: visitors arranging buckets of dahlias at a picnic table, with string lights and the lawn behind them.",
+  "captionLong": "The hero of the Floral Park page, and the dusk band on the desktop home page. Buckets of dahlias, a picnic table, string lights, and the light going down behind the lawn — the park's people moment.",
+  "captionShort": "Buckets of dahlias being arranged at a picnic table as the light goes.",
+  "cropFocus": "50% 55%",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "group": "People",
+  "highlightOrder": 3,
+  "keywords": [
+   "visitors",
+   "dusk",
+   "evening",
+   "picnic table",
+   "buckets",
+   "arranging",
+   "string lights",
+   "people"
+  ],
+  "mediaKey": "hues/park/visitors-evening-dahlia-beds.jpeg",
+  "mediaType": "image",
+  "nativeHeight": 640,
+  "nativeWidth": 512,
+  "provenance": "park-camera",
+  "slug": "visitors-at-dusk",
+  "title": "Visitors at Dusk",
+  "whereUsed": "Floral Park page; home page (desktop and phone)",
+  "wing": "park"
+ },
+ {
+  "altText": "Dahlia beds in full bloom along the lawn at Hues Floral Park",
+  "captionShort": "Dahlia beds in full bloom along the edge of the lawn.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "group": "Beds & Blooms",
+  "keywords": [
+   "dahlia beds",
+   "lawn",
+   "bloom",
+   "hoop house",
+   "garden",
+   "park"
+  ],
+  "mediaKey": "hues/park/dahlia-beds-lawn.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "dahlia-beds-along-the-lawn",
+  "title": "Dahlia Beds Along the Lawn",
+  "whereUsed": "Floral Park page",
+  "wing": "park"
+ },
+ {
+  "altText": "Dahlia beds and a sunflower field beyond the lawn at Hues Floral Park",
+  "captionShort": "Dahlia beds in the foreground, the sunflower field behind them, hills beyond.",
+  "cropFocus": "50% 68%",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "group": "Beds & Blooms",
+  "keywords": [
+   "sunflower field",
+   "dahlia beds",
+   "lawn",
+   "vista",
+   "hills",
+   "park"
+  ],
+  "mediaKey": "hues/park/dahlia-beds-sunflower-field.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "the-beds-and-the-sunflower-field",
+  "title": "The Beds and the Sunflower Field",
+  "whereUsed": "Floral Park page",
+  "wing": "park"
+ },
+ {
+  "altText": "A shaded table and chairs among the flower beds at Hues Floral Park",
+  "captionShort": "A shaded table and chairs set among the flower beds.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "The Grounds",
+  "keywords": [
+   "seating",
+   "table",
+   "chairs",
+   "canopy",
+   "shade",
+   "flower beds",
+   "park"
+  ],
+  "mediaKey": "hues/park/circle-seating-2025.webp",
+  "mediaType": "image",
+  "nativeHeight": 1280,
+  "nativeWidth": 720,
+  "provenance": "park-camera",
+  "slug": "seating-among-the-beds",
+  "title": "Seating Among the Beds",
+  "whereUsed": "Floral Park page; home page (desktop site)",
+  "wing": "park"
+ },
+ {
+  "altText": "Dusty, farmer and creator of Hues, standing in the dahlia beds wearing overalls, a cap and glasses, with a pink dahlia pinned to his pocket.",
+  "captionShort": "Dusty in the dahlia beds, a pink dahlia pinned to his overalls.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "People",
+  "keywords": [
+   "Dusty",
+   "gardener",
+   "portrait",
+   "overalls",
+   "dahlias",
+   "people"
+  ],
+  "mediaKey": "hues/people/dusty-portrait.webp",
+  "mediaType": "image",
+  "nativeHeight": 640,
+  "nativeWidth": 512,
+  "provenance": "park-camera",
+  "slug": "dusty",
+  "title": "Dusty",
+  "whereUsed": "About page; home page (desktop and phone); Story page (phone site)",
+  "wing": "park"
+ },
+ {
+  "altText": "A Ace Summer Sunset dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Ace Summer Sunset",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/ace-summer-sunset.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "ace-summer-sunset",
+  "title": "Ace Summer Sunset",
+  "varietyName": "Ace Summer Sunset",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Advance dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Advance",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/advance.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "advance",
+  "title": "Advance",
+  "varietyName": "Advance",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A After Dusk dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "After Dusk",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/after-dusk.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "after-dusk",
+  "title": "After Dusk",
+  "varietyName": "After Dusk",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Akita dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Akita",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/akita.jpg",
+  "mediaType": "image",
+  "nativeHeight": 867,
+  "nativeWidth": 650,
+  "provenance": "game-pool",
+  "slug": "akita",
+  "title": "Akita",
+  "varietyName": "Akita",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Alauna Clair-Obscur dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Alauna Clair-Obscur",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/alauna-clair-obscur.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "alauna-clair-obscur",
+  "title": "Alauna Clair-Obscur",
+  "varietyName": "Alauna Clair-Obscur",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Alloway Cottage dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Alloway Cottage",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/alloway-cottage.jpg",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 600,
+  "provenance": "game-pool",
+  "slug": "alloway-cottage",
+  "title": "Alloway Cottage",
+  "varietyName": "Alloway Cottage",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Amber Crystal dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Amber Crystal",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/amber-crystal.webp",
+  "mediaType": "image",
+  "nativeHeight": 820,
+  "nativeWidth": 820,
+  "provenance": "game-pool",
+  "slug": "amber-crystal",
+  "title": "Amber Crystal",
+  "varietyName": "Amber Crystal",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/american-dawn.jpg"
+  ],
+  "altText": "American Dawn dahlias growing in a bed at the park: a cluster of blooms, photographed in soft light.",
+  "captionShort": "A cluster of blooms in the beds, photographed at the park.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "American Dawn",
+   "dahlia",
+   "pink",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/american-dawn/dahlia-american-dawn_2429.jpeg",
+  "mediaType": "image",
+  "nativeHeight": 512,
+  "nativeWidth": 512,
+  "poolKey": "hues/cultivar-photos/american-dawn.jpg",
+  "provenance": "park-camera",
+  "slug": "american-dawn",
+  "title": "American Dawn",
+  "varietyName": "American Dawn",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/american-sun.jpg"
+  ],
+  "altText": "A American Sun dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "American Sun",
+   "dahlia",
+   "yellow",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/american-sun/P1000363-American-Sun.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/american-sun.jpg",
+  "provenance": "park-camera",
+  "slug": "american-sun",
+  "title": "American Sun",
+  "varietyName": "American Sun",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Appleblossom dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Appleblossom",
+   "dahlia",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/Appleblossom/P1000068-appleblossom.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "appleblossom",
+  "title": "Appleblossom",
+  "varietyName": "Appleblossom",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Arabian Night dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Arabian Night",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/arabian-night.jpg",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 800,
+  "provenance": "game-pool",
+  "slug": "arabian-night",
+  "title": "Arabian Night",
+  "varietyName": "Arabian Night",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Arbatax dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Arbatax",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/arbatax.webp",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 800,
+  "provenance": "game-pool",
+  "slug": "arbatax",
+  "title": "Arbatax",
+  "varietyName": "Arbatax",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Armateras dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Armateras",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/armateras.webp",
+  "mediaType": "image",
+  "nativeHeight": 850,
+  "nativeWidth": 850,
+  "provenance": "game-pool",
+  "slug": "armateras",
+  "title": "Armateras",
+  "varietyName": "Armateras",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Arthur Hambley dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Arthur Hambley",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/arthur-hambley.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2288,
+  "nativeWidth": 1718,
+  "provenance": "game-pool",
+  "slug": "arthur-hambley",
+  "title": "Arthur Hambley",
+  "varietyName": "Arthur Hambley",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Askwith Minnie dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Askwith Minnie",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/askwith-minnie.jpg",
+  "mediaType": "image",
+  "nativeHeight": 836,
+  "nativeWidth": 836,
+  "provenance": "game-pool",
+  "slug": "askwith-minnie",
+  "title": "Askwith Minnie",
+  "varietyName": "Askwith Minnie",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Avignon dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Avignon",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/avignon.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "avignon",
+  "title": "Avignon",
+  "varietyName": "Avignon",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Babette dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Babette",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/babette.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "babette",
+  "title": "Babette",
+  "varietyName": "Babette",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Babylon Bronze dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Babylon Bronze",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/babylon-bronze.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "babylon-bronze",
+  "title": "Babylon Bronze",
+  "varietyName": "Babylon Bronze",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Babylon Purple dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Babylon Purple",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/babylon-purple.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2288,
+  "nativeWidth": 1718,
+  "provenance": "game-pool",
+  "slug": "babylon-purple",
+  "title": "Babylon Purple",
+  "varietyName": "Babylon Purple",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Babylon Red dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Babylon Red",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/babylon-red.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1072,
+  "nativeWidth": 750,
+  "provenance": "game-pool",
+  "slug": "babylon-red",
+  "title": "Babylon Red",
+  "varietyName": "Babylon Red",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/bacardi.jpg"
+  ],
+  "altText": "A Bacardi dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Bacardi",
+   "dahlia",
+   "pink",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/bacardi/P1000490-bacardi.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/bacardi.jpg",
+  "provenance": "park-camera",
+  "slug": "bacardi",
+  "title": "Bacardi",
+  "varietyName": "Bacardi",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Bazuin Bright Orange dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Bazuin Bright Orange",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/bazuin-bright-orange.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1000,
+  "nativeWidth": 736,
+  "provenance": "game-pool",
+  "slug": "bazuin-bright-orange",
+  "title": "Bazuin Bright Orange",
+  "varietyName": "Bazuin Bright Orange",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Bazuin Candy dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Bazuin Candy",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/bazuin-candy.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1884,
+  "nativeWidth": 4080,
+  "provenance": "game-pool",
+  "slug": "bazuin-candy",
+  "title": "Bazuin Candy",
+  "varietyName": "Bazuin Candy",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Bazuin Lavender dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Bazuin Lavender",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/bazuin-lavender.webp",
+  "mediaType": "image",
+  "nativeHeight": 900,
+  "nativeWidth": 900,
+  "provenance": "game-pool",
+  "slug": "bazuin-lavender",
+  "title": "Bazuin Lavender",
+  "varietyName": "Bazuin Lavender",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Bazuin Pink dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Bazuin Pink",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/bazuin-pink.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1056,
+  "nativeWidth": 816,
+  "provenance": "game-pool",
+  "slug": "bazuin-pink",
+  "title": "Bazuin Pink",
+  "varietyName": "Bazuin Pink",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Bazuin Snow White dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Bazuin Snow White",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/bazuin-snow-white.webp",
+  "mediaType": "image",
+  "nativeHeight": 551,
+  "nativeWidth": 550,
+  "provenance": "game-pool",
+  "slug": "bazuin-snow-white",
+  "title": "Bazuin Snow White",
+  "varietyName": "Bazuin Snow White",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Beatrice dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Beatrice",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/geerling-s-beatrice.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1622,
+  "nativeWidth": 1623,
+  "provenance": "game-pool",
+  "slug": "beatrice",
+  "title": "Beatrice",
+  "varietyName": "Beatrice",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Beauty Queen dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Beauty Queen",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/beauty-queen.webp",
+  "mediaType": "image",
+  "nativeHeight": 1100,
+  "nativeWidth": 1100,
+  "provenance": "game-pool",
+  "slug": "beauty-queen",
+  "title": "Beauty Queen",
+  "varietyName": "Beauty Queen",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/belle-of-barmera.jpg"
+  ],
+  "altText": "A Belle of Barmera dahlia: a red-orange and white bicolor bloom with an open golden center.",
+  "bandOrder": 9,
+  "captionShort": "Red-orange and white, with an open golden center.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "keywords": [
+   "Belle of Barmera",
+   "dahlia",
+   "pink",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/belle-of-barmera/P1000448_Dahlia-Belle-of-Barmera_Sport.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/belle-of-barmera.jpg",
+  "provenance": "park-camera",
+  "slug": "belle-of-barmera",
+  "title": "Belle of Barmera",
+  "varietyName": "Belle of Barmera",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Black Jack dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Black Jack",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/black-jack.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "black-jack",
+  "title": "Black Jack",
+  "varietyName": "Black Jack",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Blitzer dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Blitzer",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/blitzer.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "blitzer",
+  "title": "Blitzer",
+  "varietyName": "Blitzer",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/blue-bell.jpg"
+  ],
+  "altText": "A Blue Bell dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Blue Bell",
+   "dahlia",
+   "purple",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/blue-bell/P1000149-blue-bell.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/blue-bell.jpg",
+  "provenance": "park-camera",
+  "slug": "blue-bell",
+  "title": "Blue Bell",
+  "varietyName": "Blue Bell",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Bodacious dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Bodacious",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/bodacious.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "bodacious",
+  "title": "Bodacious",
+  "varietyName": "Bodacious",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Bolt dahlia: a yellow bloom.",
+  "captionShort": "A yellow dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Bolt",
+   "dahlia",
+   "yellow",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/bolt.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "bolt",
+  "title": "Bolt",
+  "varietyName": "Bolt",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Bonesta dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Bonesta",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/bonesta.jpg",
+  "mediaType": "image",
+  "nativeHeight": 701,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "bonesta",
+  "title": "Bonesta",
+  "varietyName": "Bonesta",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Boom Boom White dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Boom Boom White",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/boom-boom-white.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 464,
+  "provenance": "game-pool",
+  "slug": "boom-boom-white",
+  "title": "Boom Boom White",
+  "varietyName": "Boom Boom White",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Boy Scout dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Boy Scout",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/boy-scout.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1024,
+  "nativeWidth": 1024,
+  "provenance": "game-pool",
+  "slug": "boy-scout",
+  "title": "Boy Scout",
+  "varietyName": "Boy Scout",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Brackenridge Ballerina dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Brackenridge Ballerina",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/brackenridge-ballerina.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1597,
+  "nativeWidth": 1200,
+  "provenance": "game-pool",
+  "slug": "brackenridge-ballerina",
+  "title": "Brackenridge Ballerina",
+  "varietyName": "Brackenridge Ballerina",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/breakout.jpg",
+   "hues/dahlias/break-out-closeup.jpg"
+  ],
+  "altText": "A Break Out dahlia in close-up: a formal decorative bloom, blush-peach at the petal edges deepening to apricot at the center.",
+  "bandOrder": 2,
+  "captionShort": "Blush-peach at the edges, deepening to an apricot heart.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "keywords": [
+   "Break Out",
+   "dahlia",
+   "pink",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/break-out/P1000295-Break-Out.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/breakout.jpg",
+  "provenance": "park-camera",
+  "slug": "break-out",
+  "title": "Break Out",
+  "varietyName": "Break Out",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Bumble Rumble dahlia: a magenta and white collarette bloom with a bee on its central disc.",
+  "bandOrder": 11,
+  "captionShort": "A magenta-and-white collarette, bee included.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "keywords": [
+   "Bumble Rumble",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/bumble-rumble.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "bumble-rumble",
+  "title": "Bumble Rumble",
+  "varietyName": "Bumble Rumble",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Buran dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Buran",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/buran.webp",
+  "mediaType": "image",
+  "nativeHeight": 435,
+  "nativeWidth": 435,
+  "provenance": "game-pool",
+  "slug": "buran",
+  "title": "Buran",
+  "varietyName": "Buran",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Café au Lait dahlia: a large cream dinnerplate decorative bloom.",
+  "bandOrder": 3,
+  "captionShort": "The cream dinnerplate nearly everyone knows by name.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "keywords": [
+   "Café au Lait",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/cafe-au-lait.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 560,
+  "provenance": "game-pool",
+  "slug": "cafe-au-lait",
+  "title": "Café au Lait",
+  "varietyName": "Café au Lait",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Café au Lait Royal dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Café au Lait Royal",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/cafe-au-lait-royal.jpg",
+  "mediaType": "image",
+  "nativeHeight": 466,
+  "nativeWidth": 700,
+  "provenance": "game-pool",
+  "slug": "cafe-au-lait-royal",
+  "title": "Café au Lait Royal",
+  "varietyName": "Café au Lait Royal",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Caitlin's Joy dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Caitlin's Joy",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/caitlin-s-joy.webp",
+  "mediaType": "image",
+  "nativeHeight": 600,
+  "nativeWidth": 600,
+  "provenance": "game-pool",
+  "slug": "caitlins-joy",
+  "title": "Caitlin's Joy",
+  "varietyName": "Caitlin's Joy",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Caramel Antique dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Caramel Antique",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/caramel-antique.jpg",
+  "mediaType": "image",
+  "nativeHeight": 550,
+  "nativeWidth": 550,
+  "provenance": "game-pool",
+  "slug": "caramel-antique",
+  "title": "Caramel Antique",
+  "varietyName": "Caramel Antique",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Chat Noir dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Chat Noir",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/chat-noir.jpg",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 800,
+  "provenance": "game-pool",
+  "slug": "chat-noir",
+  "title": "Chat Noir",
+  "varietyName": "Chat Noir",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Color Spectacle dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Color Spectacle",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/color-spectacle.jpg",
+  "mediaType": "image",
+  "nativeHeight": 701,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "color-spectacle",
+  "title": "Color Spectacle",
+  "varietyName": "Color Spectacle",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Copper Boy dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Copper Boy",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/copper-boy.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "copper-boy",
+  "title": "Copper Boy",
+  "varietyName": "Copper Boy",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/cornel.webp"
+  ],
+  "altText": "A Cornel dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Cornel",
+   "dahlia",
+   "red",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/cornel/P1000439-cornel.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/cornel.webp",
+  "provenance": "park-camera",
+  "slug": "cornel",
+  "title": "Cornel",
+  "varietyName": "Cornel",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/cornel-bronze.jpg"
+  ],
+  "altText": "A Cornel Bronze dahlia: a bronze-orange ball bloom with geometrically set petals.",
+  "bandOrder": 7,
+  "captionShort": "A bronze-orange ball, petals set like a diagram.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "keywords": [
+   "Cornel Bronze",
+   "dahlia",
+   "pink",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/cornel-bronze/P1000475-cornel-bronze.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/cornel-bronze.jpg",
+  "provenance": "park-camera",
+  "slug": "cornel-bronze",
+  "title": "Cornel Bronze",
+  "varietyName": "Cornel Bronze",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Coverband Nightlife dahlia: a multicolored bloom.",
+  "captionShort": "A multicolored dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Coverband Nightlife",
+   "dahlia",
+   "multicolor",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/coverband-nightlife.webp",
+  "mediaType": "image",
+  "nativeHeight": 2000,
+  "nativeWidth": 1600,
+  "provenance": "game-pool",
+  "slug": "coverband-nightlife",
+  "title": "Coverband Nightlife",
+  "varietyName": "Coverband Nightlife",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Cranberry Classic dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Cranberry Classic",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/cranberry-classic.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 560,
+  "provenance": "game-pool",
+  "slug": "cranberry-classic",
+  "title": "Cranberry Classic",
+  "varietyName": "Cranberry Classic",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Creme De Cognac dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Creme De Cognac",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/creme-de-cognac.webp",
+  "mediaType": "image",
+  "nativeHeight": 1320,
+  "nativeWidth": 990,
+  "provenance": "game-pool",
+  "slug": "creme-de-cognac",
+  "title": "Creme De Cognac",
+  "varietyName": "Creme De Cognac",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Cryfield Harmony dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Cryfield Harmony",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/cryfield-harmony.webp",
+  "mediaType": "image",
+  "nativeHeight": 2000,
+  "nativeWidth": 2000,
+  "provenance": "game-pool",
+  "slug": "cryfield-harmony",
+  "title": "Cryfield Harmony",
+  "varietyName": "Cryfield Harmony",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Daisy Duke dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Daisy Duke",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/daisy-duke.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1024,
+  "nativeWidth": 819,
+  "provenance": "game-pool",
+  "slug": "daisy-duke",
+  "title": "Daisy Duke",
+  "varietyName": "Daisy Duke",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Danique dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Danique",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/danique.jpg",
+  "mediaType": "image",
+  "nativeHeight": 750,
+  "nativeWidth": 650,
+  "provenance": "game-pool",
+  "slug": "danique",
+  "title": "Danique",
+  "varietyName": "Danique",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A David Howard dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "David Howard",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/david-howard.jpg",
+  "mediaType": "image",
+  "nativeHeight": 701,
+  "nativeWidth": 700,
+  "provenance": "game-pool",
+  "slug": "david-howard",
+  "title": "David Howard",
+  "varietyName": "David Howard",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Deep Impact dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Deep Impact",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/deep-impact.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "deep-impact",
+  "title": "Deep Impact",
+  "varietyName": "Deep Impact",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Diana's Memory dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Diana's Memory",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/diana-s-memory.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "dianas-memory",
+  "title": "Diana's Memory",
+  "varietyName": "Diana's Memory",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Diva US dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Diva US",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/diva-us.webp",
+  "mediaType": "image",
+  "nativeHeight": 627,
+  "nativeWidth": 940,
+  "provenance": "game-pool",
+  "slug": "diva-us",
+  "title": "Diva US",
+  "varietyName": "Diva US",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Dusty Beauty dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Dusty Beauty",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/dusty-beauty.jpg",
+  "mediaType": "image",
+  "nativeHeight": 683,
+  "nativeWidth": 1024,
+  "provenance": "game-pool",
+  "slug": "dusty-beauty",
+  "title": "Dusty Beauty",
+  "varietyName": "Dusty Beauty",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Edge Of Joy dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Edge Of Joy",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/edge-of-joy.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "edge-of-joy",
+  "title": "Edge Of Joy",
+  "varietyName": "Edge Of Joy",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A El Paso dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "El Paso",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/el-paso.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 465,
+  "provenance": "game-pool",
+  "slug": "el-paso",
+  "title": "El Paso",
+  "varietyName": "El Paso",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Embassy dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Embassy",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/embassy.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "embassy",
+  "title": "Embassy",
+  "varietyName": "Embassy",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Emory Paul dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Emory Paul",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/emory-paul.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "emory-paul",
+  "title": "Emory Paul",
+  "varietyName": "Emory Paul",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Eternal Snow dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Eternal Snow",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/eternal-snow.jpg",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 800,
+  "provenance": "game-pool",
+  "slug": "eternal-snow",
+  "title": "Eternal Snow",
+  "varietyName": "Eternal Snow",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/eveline.jpg"
+  ],
+  "altText": "A Eveline dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Eveline",
+   "dahlia",
+   "white",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/eveline/P1000108-eveline.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/eveline.jpg",
+  "provenance": "park-camera",
+  "slug": "eveline",
+  "title": "Eveline",
+  "varietyName": "Eveline",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Fairway Pilot dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Fairway Pilot",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/fairway-pilot.jpg",
+  "mediaType": "image",
+  "nativeHeight": 466,
+  "nativeWidth": 700,
+  "provenance": "game-pool",
+  "slug": "fairway-pilot",
+  "title": "Fairway Pilot",
+  "varietyName": "Fairway Pilot",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Fairway Spur dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Fairway Spur",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/fairway-spur.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "fairway-spur",
+  "title": "Fairway Spur",
+  "varietyName": "Fairway Spur",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Fascination dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Fascination",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/fascination.webp",
+  "mediaType": "image",
+  "nativeHeight": 600,
+  "nativeWidth": 397,
+  "provenance": "game-pool",
+  "slug": "fascination",
+  "title": "Fascination",
+  "varietyName": "Fascination",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Ferncliff Illusion dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Ferncliff Illusion",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/ferncliff-illusion.jpg",
+  "mediaType": "image",
+  "nativeHeight": 701,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "ferncliff-illusion",
+  "title": "Ferncliff Illusion",
+  "varietyName": "Ferncliff Illusion",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Fleurel dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Fleurel",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/fleurel.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 560,
+  "provenance": "game-pool",
+  "slug": "fleurel",
+  "title": "Fleurel",
+  "varietyName": "Fleurel",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Franz Kafka dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Franz Kafka",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/franz-kafka.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "franz-kafka",
+  "title": "Franz Kafka",
+  "varietyName": "Franz Kafka",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Garden Wonder dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Garden Wonder",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/garden-wonder.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "garden-wonder",
+  "title": "Garden Wonder",
+  "varietyName": "Garden Wonder",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/genova.jpg"
+  ],
+  "altText": "A Genova dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Genova",
+   "dahlia",
+   "white",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/genova/P1000198-genova.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/genova.jpg",
+  "provenance": "park-camera",
+  "slug": "genova",
+  "title": "Genova",
+  "varietyName": "Genova",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Ghislaine dahlia: an apricot and salmon ball-form bloom.",
+  "captionShort": "An apricot and salmon ball.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Ghislaine",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/ghislaine.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1719,
+  "nativeWidth": 1376,
+  "provenance": "game-pool",
+  "slug": "ghislaine",
+  "title": "Ghislaine",
+  "varietyName": "Ghislaine",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Giovanna dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Giovanna",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/giovanna.webp",
+  "mediaType": "image",
+  "nativeHeight": 510,
+  "nativeWidth": 510,
+  "provenance": "game-pool",
+  "slug": "giovanna",
+  "title": "Giovanna",
+  "varietyName": "Giovanna",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Gloriosa dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Gloriosa",
+   "dahlia",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/gloriosa/P1000433-Gloriosa.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "gloriosa",
+  "title": "Gloriosa",
+  "varietyName": "Gloriosa",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Glossy Carlita dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Glossy Carlita",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/glossy-carlita.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 1360,
+  "provenance": "game-pool",
+  "slug": "glossy-carlita",
+  "title": "Glossy Carlita",
+  "varietyName": "Glossy Carlita",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/dahlias/golden-scepter-closeup.jpg"
+  ],
+  "altText": "A Golden Scepter dahlia: a golden-yellow ball bloom.",
+  "bandOrder": 5,
+  "captionShort": "Golden yellow, in the tight ball form.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "keywords": [
+   "Golden Scepter",
+   "dahlia",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/golden-scepter/P1000413-Golden-Scepter.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "golden-scepter",
+  "title": "Golden Scepter",
+  "varietyName": "Golden Scepter",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/golden-torch.jpg"
+  ],
+  "altText": "A Golden Torch dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Golden Torch",
+   "dahlia",
+   "yellow",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/golden-torch/P1000356-Golden-Torch.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/golden-torch.jpg",
+  "provenance": "park-camera",
+  "slug": "golden-torch",
+  "title": "Golden Torch",
+  "varietyName": "Golden Torch",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Graceland dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Graceland",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/graceland.webp",
+  "mediaType": "image",
+  "nativeHeight": 1000,
+  "nativeWidth": 1000,
+  "provenance": "game-pool",
+  "slug": "graceland",
+  "title": "Graceland",
+  "varietyName": "Graceland",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Grand Prix dahlia: a yellow bloom.",
+  "captionShort": "A yellow dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Grand Prix",
+   "dahlia",
+   "yellow",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/grand-prix.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 557,
+  "provenance": "game-pool",
+  "slug": "grand-prix",
+  "title": "Grand Prix",
+  "varietyName": "Grand Prix",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Great Hercules dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Great Hercules",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/great-hercules.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "great-hercules",
+  "title": "Great Hercules",
+  "varietyName": "Great Hercules",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Great Silence dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Great Silence",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/great-silence.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "great-silence",
+  "title": "Great Silence",
+  "varietyName": "Great Silence",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Hapet Coppery dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Hapet Coppery",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/hapet-coppery.jpg",
+  "mediaType": "image",
+  "nativeHeight": 534,
+  "nativeWidth": 800,
+  "provenance": "game-pool",
+  "slug": "hapet-coppery",
+  "title": "Hapet Coppery",
+  "varietyName": "Hapet Coppery",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Hapet Pastell dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Hapet Pastell",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/hapet-pastell.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1000,
+  "nativeWidth": 1000,
+  "provenance": "game-pool",
+  "slug": "hapet-pastell",
+  "title": "Hapet Pastell",
+  "varietyName": "Hapet Pastell",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Happy Hour dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Happy Hour",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/happy-hour.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "happy-hour",
+  "title": "Happy Hour",
+  "varietyName": "Happy Hour",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A High Fidelity dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "High Fidelity",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/high-fidelity.webp",
+  "mediaType": "image",
+  "nativeHeight": 960,
+  "nativeWidth": 960,
+  "provenance": "game-pool",
+  "slug": "high-fidelity",
+  "title": "High Fidelity",
+  "varietyName": "High Fidelity",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Isabel dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Isabel",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/isabel.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "isabel",
+  "title": "Isabel",
+  "varietyName": "Isabel",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Islander dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Islander",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/islander.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "islander",
+  "title": "Islander",
+  "varietyName": "Islander",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Ivanetti dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Ivanetti",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/ivanetti.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "ivanetti",
+  "title": "Ivanetti",
+  "varietyName": "Ivanetti",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Jill Double dahlia: a yellow bloom.",
+  "captionShort": "A yellow dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Jill Double",
+   "dahlia",
+   "yellow",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/jill-double.jpg",
+  "mediaType": "image",
+  "nativeHeight": 3000,
+  "nativeWidth": 3000,
+  "provenance": "game-pool",
+  "slug": "jill-double",
+  "title": "Jill Double",
+  "varietyName": "Jill Double",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Joel's Favorite dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Joel's Favorite",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/joel-s-favorite.webp",
+  "mediaType": "image",
+  "nativeHeight": 711,
+  "nativeWidth": 533,
+  "provenance": "game-pool",
+  "slug": "joels-favorite",
+  "title": "Joel's Favorite",
+  "varietyName": "Joel's Favorite",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Jowey Arenda dahlia: a multicolored bloom.",
+  "captionShort": "A multicolored dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Jowey Arenda",
+   "dahlia",
+   "multicolor",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/jowey-arenda.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 700,
+  "provenance": "game-pool",
+  "slug": "jowey-arenda",
+  "title": "Jowey Arenda",
+  "varietyName": "Jowey Arenda",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Jowey Fantasy dahlia: a multicolored bloom.",
+  "captionShort": "A multicolored dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Jowey Fantasy",
+   "dahlia",
+   "multicolor",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/jowey-fantasy.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "jowey-fantasy",
+  "title": "Jowey Fantasy",
+  "varietyName": "Jowey Fantasy",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Jowey Frambo dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Jowey Frambo",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/jowey-frambo.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 700,
+  "provenance": "game-pool",
+  "slug": "jowey-frambo",
+  "title": "Jowey Frambo",
+  "varietyName": "Jowey Frambo",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Jowey Hubert dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Jowey Hubert",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/jowey-hubert.jpg",
+  "mediaType": "image",
+  "nativeHeight": 3000,
+  "nativeWidth": 3000,
+  "provenance": "game-pool",
+  "slug": "jowey-hubert",
+  "title": "Jowey Hubert",
+  "varietyName": "Jowey Hubert",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Jowey Linda dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Jowey Linda",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/jowey-linda.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "jowey-linda",
+  "title": "Jowey Linda",
+  "varietyName": "Jowey Linda",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Jowey Mirella dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Jowey Mirella",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/jowey-mirella.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1080,
+  "nativeWidth": 1080,
+  "provenance": "game-pool",
+  "slug": "jowey-mirella",
+  "title": "Jowey Mirella",
+  "varietyName": "Jowey Mirella",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Jowey Nicky dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Jowey Nicky",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/jowey-nicky.jpg",
+  "mediaType": "image",
+  "nativeHeight": 600,
+  "nativeWidth": 600,
+  "provenance": "game-pool",
+  "slug": "jowey-nicky",
+  "title": "Jowey Nicky",
+  "varietyName": "Jowey Nicky",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Jowey Paradise dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Jowey Paradise",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/jowey-paradise.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "jowey-paradise",
+  "title": "Jowey Paradise",
+  "varietyName": "Jowey Paradise",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Jowey Winnie dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Jowey Winnie",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/jowey-winnie.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "jowey-winnie",
+  "title": "Jowey Winnie",
+  "varietyName": "Jowey Winnie",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Julio dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Julio",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/julio.jpg",
+  "mediaType": "image",
+  "nativeHeight": 640,
+  "nativeWidth": 640,
+  "provenance": "game-pool",
+  "slug": "julio",
+  "title": "Julio",
+  "varietyName": "Julio",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Karma Gold dahlia: a yellow bloom.",
+  "captionShort": "A yellow dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Karma Gold",
+   "dahlia",
+   "yellow",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/karma-gold.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "karma-gold",
+  "title": "Karma Gold",
+  "varietyName": "Karma Gold",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Karma Lagoon dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Karma Lagoon",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/karma-lagoon.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "karma-lagoon",
+  "title": "Karma Lagoon",
+  "varietyName": "Karma Lagoon",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Karma Maarten de Zwaan dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Karma Maarten de Zwaan",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/karma-maarten-zwaan.webp",
+  "mediaType": "image",
+  "nativeHeight": 400,
+  "nativeWidth": 300,
+  "provenance": "game-pool",
+  "slug": "karma-maarten-de-zwaan",
+  "title": "Karma Maarten de Zwaan",
+  "varietyName": "Karma Maarten de Zwaan",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/naomi.jpg"
+  ],
+  "altText": "A Karma Naomi dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Karma Naomi",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/karma-naomi.jpg",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 800,
+  "provenance": "game-pool",
+  "slug": "karma-naomi",
+  "title": "Karma Naomi",
+  "varietyName": "Karma Naomi",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Karma Serena dahlia: a yellow bloom.",
+  "captionShort": "A yellow dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Karma Serena",
+   "dahlia",
+   "yellow",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/serena.webp",
+  "mediaType": "image",
+  "nativeHeight": 533,
+  "nativeWidth": 681,
+  "provenance": "game-pool",
+  "slug": "karma-serena",
+  "title": "Karma Serena",
+  "varietyName": "Karma Serena",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Kelsey Annie Joy dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Kelsey Annie Joy",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/kelsey-annie-joy.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "kelsey-annie-joy",
+  "title": "Kelsey Annie Joy",
+  "varietyName": "Kelsey Annie Joy",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Kelsey Sunshine dahlia: a yellow bloom.",
+  "captionShort": "A yellow dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Kelsey Sunshine",
+   "dahlia",
+   "yellow",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/kelsey-sunshine.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 560,
+  "provenance": "game-pool",
+  "slug": "kelsey-sunshine",
+  "title": "Kelsey Sunshine",
+  "varietyName": "Kelsey Sunshine",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Kelvin Floodlight dahlia: a yellow bloom.",
+  "captionShort": "A yellow dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Kelvin Floodlight",
+   "dahlia",
+   "yellow",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/kelvin-floodlight.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "kelvin-floodlight",
+  "title": "Kelvin Floodlight",
+  "varietyName": "Kelvin Floodlight",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Kennemerland dahlia: a yellow bloom.",
+  "captionShort": "A yellow dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Kennemerland",
+   "dahlia",
+   "yellow",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/kennemerland.jpg",
+  "mediaType": "image",
+  "nativeHeight": 701,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "kennemerland",
+  "title": "Kennemerland",
+  "varietyName": "Kennemerland",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Kogane Fubuki dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Kogane Fubuki",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/kogane-fubuki.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 700,
+  "provenance": "game-pool",
+  "slug": "kogane-fubuki",
+  "title": "Kogane Fubuki",
+  "varietyName": "Kogane Fubuki",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A L.A.T.E. dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "L.A.T.E.",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/l-a-t-e.jpg",
+  "mediaType": "image",
+  "nativeHeight": 500,
+  "nativeWidth": 500,
+  "provenance": "game-pool",
+  "slug": "l-a-t-e",
+  "title": "L.A.T.E.",
+  "varietyName": "L.A.T.E.",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A La Belle Epoque dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "La Belle Epoque",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/la-belle-epoque.jpg",
+  "mediaType": "image",
+  "nativeHeight": 386,
+  "nativeWidth": 386,
+  "provenance": "game-pool",
+  "slug": "la-belle-epoque",
+  "title": "La Belle Epoque",
+  "varietyName": "La Belle Epoque",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/labyrinth.jpg",
+   "hues/dahlias/labyrinth-closeup.jpg"
+  ],
+  "altText": "A single Labyrinth dahlia in close-up: a very large coral-pink bloom with twisted, magenta-streaked petals filling the frame, soft green garden behind it.",
+  "bandOrder": 1,
+  "captionLong": "Photographed in the beds at Hues, and one of the close-ups the main site itself carries as dahlia art. It fronts this wing and opens the featured wall because it is the strongest single-bloom photograph in the collection.",
+  "captionShort": "Coral-pink and magenta-streaked, one bloom filling the whole frame.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "keywords": [
+   "Labyrinth",
+   "dahlia",
+   "pink",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/labyrinth/P1000288-Labyrinth.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/labyrinth.jpg",
+  "provenance": "park-camera",
+  "slug": "labyrinth",
+  "title": "Labyrinth",
+  "varietyName": "Labyrinth",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Lady Liberty dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Lady Liberty",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/lady-liberty.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 464,
+  "provenance": "game-pool",
+  "slug": "lady-liberty",
+  "title": "Lady Liberty",
+  "varietyName": "Lady Liberty",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Lavender Perfection dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Lavender Perfection",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/lavender-perfection.webp",
+  "mediaType": "image",
+  "nativeHeight": 1024,
+  "nativeWidth": 811,
+  "provenance": "game-pool",
+  "slug": "lavender-perfection",
+  "title": "Lavender Perfection",
+  "varietyName": "Lavender Perfection",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Lavender Ruffles dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Lavender Ruffles",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/lavender-ruffles.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 560,
+  "provenance": "game-pool",
+  "slug": "lavender-ruffles",
+  "title": "Lavender Ruffles",
+  "varietyName": "Lavender Ruffles",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Lifestyle dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Lifestyle",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/lifestyle.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 700,
+  "provenance": "game-pool",
+  "slug": "lifestyle",
+  "title": "Lifestyle",
+  "varietyName": "Lifestyle",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/lilac-time.jpg"
+  ],
+  "altText": "A Lilac Time dahlia: a lavender-magenta decorative bloom.",
+  "bandOrder": 12,
+  "captionShort": "Lavender-magenta, and the band is turning deep.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "keywords": [
+   "Lilac Time",
+   "dahlia",
+   "purple",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/lilac-time/P1000070-lilac-time.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/lilac-time.jpg",
+  "provenance": "park-camera",
+  "slug": "lilac-time",
+  "title": "Lilac Time",
+  "varietyName": "Lilac Time",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Linda's Baby dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Linda's Baby",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/linda-s-baby.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "lindas-baby",
+  "title": "Linda's Baby",
+  "varietyName": "Linda's Baby",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Lipoma dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Lipoma",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/lipoma.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "lipoma",
+  "title": "Lipoma",
+  "varietyName": "Lipoma",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Madeleine dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Madeleine",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/madeleine.webp",
+  "mediaType": "image",
+  "nativeHeight": 1946,
+  "nativeWidth": 1946,
+  "provenance": "game-pool",
+  "slug": "madeleine",
+  "title": "Madeleine",
+  "varietyName": "Madeleine",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Mango Madness dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Mango Madness",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/mango-madness.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "mango-madness",
+  "title": "Mango Madness",
+  "varietyName": "Mango Madness",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Manoa dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Manoa",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/manoa.jpg",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 800,
+  "provenance": "game-pool",
+  "slug": "manoa",
+  "title": "Manoa",
+  "varietyName": "Manoa",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Marble Ball dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Marble Ball",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/marble-ball.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "marble-ball",
+  "title": "Marble Ball",
+  "varietyName": "Marble Ball",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Mary Evelyn dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Mary Evelyn",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/mary-evelyn.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "mary-evelyn",
+  "title": "Mary Evelyn",
+  "varietyName": "Mary Evelyn",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Mary's Jomanda dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Mary's Jomanda",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/mary-s-jomanda.webp",
+  "mediaType": "image",
+  "nativeHeight": 1024,
+  "nativeWidth": 683,
+  "provenance": "game-pool",
+  "slug": "marys-jomanda",
+  "title": "Mary's Jomanda",
+  "varietyName": "Mary's Jomanda",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/maxime.jpg"
+  ],
+  "altText": "A Maxime dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Maxime",
+   "dahlia",
+   "red",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/maxime/P1000411-Maxime.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/maxime.jpg",
+  "provenance": "park-camera",
+  "slug": "maxime",
+  "title": "Maxime",
+  "varietyName": "Maxime",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Maya dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Maya",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/maya.webp",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 600,
+  "provenance": "game-pool",
+  "slug": "maya",
+  "title": "Maya",
+  "varietyName": "Maya",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Mingus Alex dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Mingus Alex",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/mingus-alex.jpg",
+  "mediaType": "image",
+  "nativeHeight": 560,
+  "nativeWidth": 700,
+  "provenance": "game-pool",
+  "slug": "mingus-alex",
+  "title": "Mingus Alex",
+  "varietyName": "Mingus Alex",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Mirella dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Mirella",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/mirella.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 560,
+  "provenance": "game-pool",
+  "slug": "mirella",
+  "title": "Mirella",
+  "varietyName": "Mirella",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Misses Amy dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Misses Amy",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/misses-amy.jpg",
+  "mediaType": "image",
+  "nativeHeight": 386,
+  "nativeWidth": 386,
+  "provenance": "game-pool",
+  "slug": "misses-amy",
+  "title": "Misses Amy",
+  "varietyName": "Misses Amy",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Missis Miley dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Missis Miley",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/missis-miley.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "missis-miley",
+  "title": "Missis Miley",
+  "varietyName": "Missis Miley",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Molly Raven dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Molly Raven",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/molly-raven.webp",
+  "mediaType": "image",
+  "nativeHeight": 1056,
+  "nativeWidth": 960,
+  "provenance": "game-pool",
+  "slug": "molly-raven",
+  "title": "Molly Raven",
+  "varietyName": "Molly Raven",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A My Love dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "My Love",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/my-love.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "my-love",
+  "title": "My Love",
+  "varietyName": "My Love",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Mystery Day dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Mystery Day",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/mystery-day.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 560,
+  "provenance": "game-pool",
+  "slug": "mystery-day",
+  "title": "Mystery Day",
+  "varietyName": "Mystery Day",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Nadia Ruth dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Nadia Ruth",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/nadia-ruth.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "nadia-ruth",
+  "title": "Nadia Ruth",
+  "varietyName": "Nadia Ruth",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Natal dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Natal",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/natal.webp",
+  "mediaType": "image",
+  "nativeHeight": 1358,
+  "nativeWidth": 1358,
+  "provenance": "game-pool",
+  "slug": "natal",
+  "title": "Natal",
+  "varietyName": "Natal",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Nathalie G dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Nathalie G",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/nathalie-g.jpg",
+  "mediaType": "image",
+  "nativeHeight": 811,
+  "nativeWidth": 1000,
+  "provenance": "game-pool",
+  "slug": "nathalie-g",
+  "title": "Nathalie G",
+  "varietyName": "Nathalie G",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Night Queen dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Night Queen",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/night-queen.webp",
+  "mediaType": "image",
+  "nativeHeight": 823,
+  "nativeWidth": 823,
+  "provenance": "game-pool",
+  "slug": "night-queen",
+  "title": "Night Queen",
+  "varietyName": "Night Queen",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Night Silence dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Night Silence",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/night-silence.webp",
+  "mediaType": "image",
+  "nativeHeight": 773,
+  "nativeWidth": 580,
+  "provenance": "game-pool",
+  "slug": "night-silence",
+  "title": "Night Silence",
+  "varietyName": "Night Silence",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Onesta dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Onesta",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/onesta.webp",
+  "mediaType": "image",
+  "nativeHeight": 512,
+  "nativeWidth": 512,
+  "provenance": "game-pool",
+  "slug": "onesta",
+  "title": "Onesta",
+  "varietyName": "Onesta",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Opal dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Opal",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/opal.webp",
+  "mediaType": "image",
+  "nativeHeight": 360,
+  "nativeWidth": 360,
+  "provenance": "game-pool",
+  "slug": "opal",
+  "title": "Opal",
+  "varietyName": "Opal",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Orange Breeze dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Orange Breeze",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/orange-breeze.webp",
+  "mediaType": "image",
+  "nativeHeight": 600,
+  "nativeWidth": 600,
+  "provenance": "game-pool",
+  "slug": "orange-breeze",
+  "title": "Orange Breeze",
+  "varietyName": "Orange Breeze",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Orange Nugget dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Orange Nugget",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/orange-nugget.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1078,
+  "nativeWidth": 806,
+  "provenance": "game-pool",
+  "slug": "orange-nugget",
+  "title": "Orange Nugget",
+  "varietyName": "Orange Nugget",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Orange Perception dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Orange Perception",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/orange-perception.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "orange-perception",
+  "title": "Orange Perception",
+  "varietyName": "Orange Perception",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Orange Sunrise dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Orange Sunrise",
+   "dahlia",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/orange-sunrise/P1000138-orange-sunrise.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "orange-sunrise",
+  "title": "Orange Sunrise",
+  "varietyName": "Orange Sunrise",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Otto's Thrill dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Otto's Thrill",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/otto-s-thrill.webp",
+  "mediaType": "image",
+  "nativeHeight": 1446,
+  "nativeWidth": 1445,
+  "provenance": "game-pool",
+  "slug": "ottos-thrill",
+  "title": "Otto's Thrill",
+  "varietyName": "Otto's Thrill",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Peaches dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Peaches",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/peaches.jpg",
+  "mediaType": "image",
+  "nativeHeight": 386,
+  "nativeWidth": 386,
+  "provenance": "game-pool",
+  "slug": "peaches",
+  "title": "Peaches",
+  "varietyName": "Peaches",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Peaches & Cream dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Peaches & Cream",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/peaches-cream.jpg",
+  "mediaType": "image",
+  "nativeHeight": 500,
+  "nativeWidth": 375,
+  "provenance": "game-pool",
+  "slug": "peaches-and-cream",
+  "title": "Peaches & Cream",
+  "varietyName": "Peaches & Cream",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/dahlias/penhill-autumn-shade-closeup.jpg"
+  ],
+  "altText": "A Penhill Autumn Shade dahlia: an apricot-peach semi-cactus bloom with starburst petals; a tiny spider sits on one petal.",
+  "bandOrder": 8,
+  "captionLong": "Look at it full size: a tiny spider is sitting on one petal. It stayed in. That is what a real garden photograph looks like.",
+  "captionShort": "Apricot-peach semi-cactus, petals thrown like a starburst.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "keywords": [
+   "Penhill Autumn Shade",
+   "dahlia",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/penhill-autumn-shade/P1000419-Penhill-Autumn-Shade.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "penhill-autumn-shade",
+  "title": "Penhill Autumn Shade",
+  "varietyName": "Penhill Autumn Shade",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Penhill Dark Monarch dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Penhill Dark Monarch",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/penhill-dark-monarch.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "penhill-dark-monarch",
+  "title": "Penhill Dark Monarch",
+  "varietyName": "Penhill Dark Monarch",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Penhill Watermelon dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Penhill Watermelon",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/penhill-watermelon.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "penhill-watermelon",
+  "title": "Penhill Watermelon",
+  "varietyName": "Penhill Watermelon",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Perch Hill dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Perch Hill",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/perch-hill.jpg",
+  "mediaType": "image",
+  "nativeHeight": 750,
+  "nativeWidth": 750,
+  "provenance": "game-pool",
+  "slug": "perch-hill",
+  "title": "Perch Hill",
+  "varietyName": "Perch Hill",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Petra's Wedding dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Petra's Wedding",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/petra-s-wedding.jpg",
+  "mediaType": "image",
+  "nativeHeight": 738,
+  "nativeWidth": 738,
+  "provenance": "game-pool",
+  "slug": "petras-wedding",
+  "title": "Petra's Wedding",
+  "varietyName": "Petra's Wedding",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Pineland's Princess dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Pineland's Princess",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/pineland-s-princess.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "pinelands-princess",
+  "title": "Pineland's Princess",
+  "varietyName": "Pineland's Princess",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Pink Pearl dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Pink Pearl",
+   "dahlia",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/pink-pearl/P1000234-pink-pearl.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "pink-pearl",
+  "title": "Pink Pearl",
+  "varietyName": "Pink Pearl",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Pink Pop dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Pink Pop",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/pink-pop.webp",
+  "mediaType": "image",
+  "nativeHeight": 600,
+  "nativeWidth": 600,
+  "provenance": "game-pool",
+  "slug": "pink-pop",
+  "title": "Pink Pop",
+  "varietyName": "Pink Pop",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/pink-runner.png"
+  ],
+  "altText": "A Pink Runner dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Pink Runner",
+   "dahlia",
+   "pink",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/pink-runner/p1000638_pink-runner.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/pink-runner.png",
+  "provenance": "park-camera",
+  "slug": "pink-runner",
+  "title": "Pink Runner",
+  "varietyName": "Pink Runner",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Platinum Blonde dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Platinum Blonde",
+   "dahlia",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/platinum-blonde/P1000511_Platinum-Blonde.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "platinum-blonde",
+  "title": "Platinum Blonde",
+  "varietyName": "Platinum Blonde",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Polka dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Polka",
+   "dahlia",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/polka/P1000177-polka.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "polka",
+  "title": "Polka",
+  "varietyName": "Polka",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "additionalPhotoKeys": [
+   "hues/cultivar-photos/pooh-swan-island.jpg"
+  ],
+  "altText": "A Pooh dahlia: a bloom.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Pooh",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/pooh.jpg",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 800,
+  "provenance": "game-pool",
+  "slug": "pooh",
+  "title": "Pooh",
+  "varietyName": "Pooh",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/preference.jpg"
+  ],
+  "altText": "A Preference dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Preference",
+   "dahlia",
+   "pink",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/preference/P1000314-Preference.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/preference.jpg",
+  "provenance": "park-camera",
+  "slug": "preference",
+  "title": "Preference",
+  "varietyName": "Preference",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Purple Flame dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Purple Flame",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/purple-flame.jpg",
+  "mediaType": "image",
+  "nativeHeight": 466,
+  "nativeWidth": 700,
+  "provenance": "game-pool",
+  "slug": "purple-flame",
+  "title": "Purple Flame",
+  "varietyName": "Purple Flame",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Purple Gem dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Purple Gem",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/purple-gem.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "purple-gem",
+  "title": "Purple Gem",
+  "varietyName": "Purple Gem",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Red Cap dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Red Cap",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/red-cap.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "red-cap",
+  "title": "Red Cap",
+  "varietyName": "Red Cap",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Rhubarb And Custard dahlia: a yellow bloom.",
+  "captionShort": "A yellow dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Rhubarb And Custard",
+   "dahlia",
+   "yellow",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/rhubarb-and-custard.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "rhubarb-and-custard",
+  "title": "Rhubarb And Custard",
+  "varietyName": "Rhubarb And Custard",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Rina Bredie dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Rina Bredie",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/rina-bredie.webp",
+  "mediaType": "image",
+  "nativeHeight": 610,
+  "nativeWidth": 610,
+  "provenance": "game-pool",
+  "slug": "rina-bredie",
+  "title": "Rina Bredie",
+  "varietyName": "Rina Bredie",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Rocco dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Rocco",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/rocco.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 465,
+  "provenance": "game-pool",
+  "slug": "rocco",
+  "title": "Rocco",
+  "varietyName": "Rocco",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Rock Star dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Rock Star",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/rock-star.webp",
+  "mediaType": "image",
+  "nativeHeight": 400,
+  "nativeWidth": 300,
+  "provenance": "game-pool",
+  "slug": "rock-star",
+  "title": "Rock Star",
+  "varietyName": "Rock Star",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Romance dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Romance",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/romance.webp",
+  "mediaType": "image",
+  "nativeHeight": 369,
+  "nativeWidth": 300,
+  "provenance": "game-pool",
+  "slug": "romance",
+  "title": "Romance",
+  "varietyName": "Romance",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Rosario dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Rosario",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/rosario.jpg",
+  "mediaType": "image",
+  "nativeHeight": 683,
+  "nativeWidth": 683,
+  "provenance": "game-pool",
+  "slug": "rosario",
+  "title": "Rosario",
+  "varietyName": "Rosario",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Ryecroft Jan dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Ryecroft Jan",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/ryecroft-jan.jpg",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 800,
+  "provenance": "game-pool",
+  "slug": "ryecroft-jan",
+  "title": "Ryecroft Jan",
+  "varietyName": "Ryecroft Jan",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Safe Shot dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Safe Shot",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/safe-shot.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 466,
+  "provenance": "game-pool",
+  "slug": "safe-shot",
+  "title": "Safe Shot",
+  "varietyName": "Safe Shot",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/salmon-runner.jpg"
+  ],
+  "altText": "A Salmon Runner dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Salmon Runner",
+   "dahlia",
+   "pink",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/salmon-runner/P1000486-salmon-runner.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/salmon-runner.jpg",
+  "provenance": "park-camera",
+  "slug": "salmon-runner",
+  "title": "Salmon Runner",
+  "varietyName": "Salmon Runner",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/sam-hopkins.jpg"
+  ],
+  "altText": "A Sam Hopkins dahlia: a near-black burgundy-red decorative bloom.",
+  "bandOrder": 14,
+  "captionLong": "The featured wall’s closing note, and the second piece in the entrance highlights — set there straight after The Procession’s pale sky, on purpose.",
+  "captionShort": "Near-black burgundy-red, the deepest color on the wall.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "highlightOrder": 2,
+  "keywords": [
+   "Sam Hopkins",
+   "dahlia",
+   "red",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/sam-hopkins/P1000241-sam-hopkins.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/sam-hopkins.jpg",
+  "provenance": "park-camera",
+  "slug": "sam-hopkins",
+  "title": "Sam Hopkins",
+  "varietyName": "Sam Hopkins",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Sandia Brocade dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Sandia Brocade",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/sandia-brocade.webp",
+  "mediaType": "image",
+  "nativeHeight": 867,
+  "nativeWidth": 650,
+  "provenance": "game-pool",
+  "slug": "sandia-brocade",
+  "title": "Sandia Brocade",
+  "varietyName": "Sandia Brocade",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Sandra dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Sandra",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/sandra.jpg",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 800,
+  "provenance": "game-pool",
+  "slug": "sandra",
+  "title": "Sandra",
+  "varietyName": "Sandra",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Seduction dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Seduction",
+   "dahlia",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/seduction/P1000079-seduction.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "seduction",
+  "title": "Seduction",
+  "varietyName": "Seduction",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Shiloh Noelle dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Shiloh Noelle",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/shiloh-noelle.jpg",
+  "mediaType": "image",
+  "nativeHeight": 701,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "shiloh-noelle",
+  "title": "Shiloh Noelle",
+  "varietyName": "Shiloh Noelle",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Sir Richard dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Sir Richard",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/sir-richard.webp",
+  "mediaType": "image",
+  "nativeHeight": 951,
+  "nativeWidth": 713,
+  "provenance": "game-pool",
+  "slug": "sir-richard",
+  "title": "Sir Richard",
+  "varietyName": "Sir Richard",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Soulman dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Soulman",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/soulman.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1024,
+  "nativeWidth": 819,
+  "provenance": "game-pool",
+  "slug": "soulman",
+  "title": "Soulman",
+  "varietyName": "Soulman",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Star's Favorite dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Star's Favorite",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/star-s-favorite.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "stars-favorite",
+  "title": "Star's Favorite",
+  "varietyName": "Star's Favorite",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Statue Of Orange dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Statue Of Orange",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/statue-of-orange.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1280,
+  "nativeWidth": 1280,
+  "provenance": "game-pool",
+  "slug": "statue-of-orange",
+  "title": "Statue Of Orange",
+  "varietyName": "Statue Of Orange",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Stolze Von Berlin dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Stolze Von Berlin",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/stolze-von-berlin.jpg",
+  "mediaType": "image",
+  "nativeHeight": 600,
+  "nativeWidth": 600,
+  "provenance": "game-pool",
+  "slug": "stolze-von-berlin",
+  "title": "Stolze Von Berlin",
+  "varietyName": "Stolze Von Berlin",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/dahlias/strawberry-ice-closeup.jpg"
+  ],
+  "altText": "A Strawberry Ice dahlia at macro range: pink and yellow petals in fine detail.",
+  "bandOrder": 10,
+  "captionShort": "Pink and yellow at macro range — petal-level detail.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "highlightOrder": 10,
+  "keywords": [
+   "Strawberry Ice",
+   "dahlia",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/strawberry-ice/P1000470-strawberry-ice-closeup.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "strawberry-ice",
+  "title": "Strawberry Ice",
+  "varietyName": "Strawberry Ice",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Sturm Sweet Maria dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Sturm Sweet Maria",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/sturm-sweet-maria.webp",
+  "mediaType": "image",
+  "nativeHeight": 823,
+  "nativeWidth": 823,
+  "provenance": "game-pool",
+  "slug": "sturm-sweet-maria",
+  "title": "Sturm Sweet Maria",
+  "varietyName": "Sturm Sweet Maria",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Sunny Boy dahlia: a yellow bloom.",
+  "captionShort": "A yellow dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Sunny Boy",
+   "dahlia",
+   "yellow",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/sunny-boy.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "sunny-boy",
+  "title": "Sunny Boy",
+  "varietyName": "Sunny Boy",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Sweet Fabienne dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Sweet Fabienne",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/sweet-fabienne.jpg",
+  "mediaType": "image",
+  "nativeHeight": 683,
+  "nativeWidth": 683,
+  "provenance": "game-pool",
+  "slug": "sweet-fabienne",
+  "title": "Sweet Fabienne",
+  "varietyName": "Sweet Fabienne",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Sweet Love dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Sweet Love",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/sweet-love.jpg",
+  "mediaType": "image",
+  "nativeHeight": 500,
+  "nativeWidth": 500,
+  "provenance": "game-pool",
+  "slug": "sweet-love",
+  "title": "Sweet Love",
+  "varietyName": "Sweet Love",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/sweet-nathalie.webp"
+  ],
+  "altText": "A Sweet Nathalie dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Sweet Nathalie",
+   "dahlia",
+   "pink",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/sweet-nathalie/P1000402-Sweet-Nathalie.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/sweet-nathalie.webp",
+  "provenance": "park-camera",
+  "slug": "sweet-nathalie",
+  "title": "Sweet Nathalie",
+  "varietyName": "Sweet Nathalie",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Sweet Sanne dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Sweet Sanne",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/sweet-sanne.webp",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 1536,
+  "provenance": "game-pool",
+  "slug": "sweet-sanne",
+  "title": "Sweet Sanne",
+  "varietyName": "Sweet Sanne",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Sweet Surprise dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Sweet Surprise",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/sweet-surprise.jpg",
+  "mediaType": "image",
+  "nativeHeight": 629,
+  "nativeWidth": 472,
+  "provenance": "game-pool",
+  "slug": "sweet-surprise",
+  "title": "Sweet Surprise",
+  "varietyName": "Sweet Surprise",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Sweet Suzanne dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Sweet Suzanne",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/sweet-suzanne.jpg",
+  "mediaType": "image",
+  "nativeHeight": 466,
+  "nativeWidth": 700,
+  "provenance": "game-pool",
+  "slug": "sweet-suzanne",
+  "title": "Sweet Suzanne",
+  "varietyName": "Sweet Suzanne",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Sylvia dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Sylvia",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/sylvia.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "sylvia",
+  "title": "Sylvia",
+  "varietyName": "Sylvia",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/take-off.jpg"
+  ],
+  "altText": "A Take Off dahlia: an anemone-form bloom.",
+  "captionShort": "An anemone-form bloom.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Take Off",
+   "dahlia",
+   "pink",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/take-off/P1000442_03_Take-Off.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/take-off.jpg",
+  "provenance": "park-camera",
+  "slug": "take-off",
+  "title": "Take Off",
+  "varietyName": "Take Off",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Tartan dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Tartan",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/tartan.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "tartan",
+  "title": "Tartan",
+  "varietyName": "Tartan",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Teesbrook Audrey dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Teesbrook Audrey",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/teesbrook-audrey.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "teesbrook-audrey",
+  "title": "Teesbrook Audrey",
+  "varietyName": "Teesbrook Audrey",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A The Phantom dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "The Phantom",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/the-phantom.jpg",
+  "mediaType": "image",
+  "nativeHeight": 1050,
+  "nativeWidth": 787,
+  "provenance": "game-pool",
+  "slug": "the-phantom",
+  "title": "The Phantom",
+  "varietyName": "The Phantom",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/thomas-a-edison.jpg",
+   "hues/dahlias/thomas-edison-closeup.jpg"
+  ],
+  "altText": "A Thomas Edison dahlia: a deep purple decorative bloom.",
+  "bandOrder": 13,
+  "captionShort": "Deep purple — the last of the bright colors before the close.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "keywords": [
+   "Thomas Edison",
+   "dahlia",
+   "purple",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/thomas-edison/P1000273-Thomas-Edison.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/thomas-a-edison.jpg",
+  "provenance": "park-camera",
+  "slug": "thomas-edison",
+  "title": "Thomas Edison",
+  "varietyName": "Thomas Edison",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/totally-tangerine.jpg"
+  ],
+  "altText": "A Totally Tangerine dahlia: a pink-orange anemone bloom with a ruffled cushion center.",
+  "bandOrder": 6,
+  "captionShort": "A pink-orange anemone with a ruffled cushion heart.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "highlightOrder": 6,
+  "keywords": [
+   "Totally Tangerine",
+   "dahlia",
+   "orange",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/totally-tangerine/P1000437_Dahlia-Totally-Tangerine.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/totally-tangerine.jpg",
+  "provenance": "park-camera",
+  "slug": "totally-tangerine",
+  "title": "Totally Tangerine",
+  "varietyName": "Totally Tangerine",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Twiggy dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Twiggy",
+   "dahlia",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/twiggy/P1000222-twiggy.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "twiggy",
+  "title": "Twiggy",
+  "varietyName": "Twiggy",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Tyrell dahlia: a orange bloom.",
+  "captionShort": "A orange dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Tyrell",
+   "dahlia",
+   "orange",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/tyrell.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "tyrell",
+  "title": "Tyrell",
+  "varietyName": "Tyrell",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Vancouver dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Vancouver",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/vancouver.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 560,
+  "provenance": "game-pool",
+  "slug": "vancouver",
+  "title": "Vancouver",
+  "varietyName": "Vancouver",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Verrone's Obsidian dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Verrone's Obsidian",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/verrones-obsidian.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2560,
+  "nativeWidth": 2002,
+  "provenance": "game-pool",
+  "slug": "verrones-obsidian",
+  "title": "Verrone's Obsidian",
+  "varietyName": "Verrone's Obsidian",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A White Wizard dahlia in close-up: a white-cream ball bloom of quilled petals with a blush edge.",
+  "bandOrder": 4,
+  "captionShort": "A white-cream ball, its quilled petals blushed at the edge.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "jpeg",
+  "keywords": [
+   "White Wizard",
+   "dahlia",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/white-wizard/P1000395-white-wizard.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "provenance": "park-camera",
+  "slug": "white-wizard",
+  "title": "White Wizard",
+  "varietyName": "White Wizard",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Witteman's Best dahlia: a red bloom.",
+  "captionShort": "A red dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Witteman's Best",
+   "dahlia",
+   "red",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/witteman-s-best.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "wittemans-best",
+  "title": "Witteman's Best",
+  "varietyName": "Witteman's Best",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Wizard Of Oz dahlia: a pink bloom.",
+  "captionShort": "A pink dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Wizard Of Oz",
+   "dahlia",
+   "pink",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/wizard-of-oz.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 560,
+  "provenance": "game-pool",
+  "slug": "wizard-of-oz",
+  "title": "Wizard Of Oz",
+  "varietyName": "Wizard Of Oz",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Yellow Heaven dahlia: a yellow bloom.",
+  "captionShort": "A yellow dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Yellow Heaven",
+   "dahlia",
+   "yellow",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/yellow-heaven.jpg",
+  "mediaType": "image",
+  "nativeHeight": 500,
+  "nativeWidth": 500,
+  "provenance": "game-pool",
+  "slug": "yellow-heaven",
+  "title": "Yellow Heaven",
+  "varietyName": "Yellow Heaven",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Yellow Perception dahlia: a yellow bloom.",
+  "captionShort": "A yellow dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Yellow Perception",
+   "dahlia",
+   "yellow",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/yellow-perception.jpg",
+  "mediaType": "image",
+  "nativeHeight": 700,
+  "nativeWidth": 701,
+  "provenance": "game-pool",
+  "slug": "yellow-perception",
+  "title": "Yellow Perception",
+  "varietyName": "Yellow Perception",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Zahra dahlia: a white bloom.",
+  "captionShort": "A white dahlia.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "keywords": [
+   "Zahra",
+   "dahlia",
+   "white",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/zahra.webp",
+  "mediaType": "image",
+  "nativeHeight": 1035,
+  "nativeWidth": 1000,
+  "provenance": "game-pool",
+  "slug": "zahra",
+  "title": "Zahra",
+  "varietyName": "Zahra",
+  "wing": "dahlias"
+ },
+ {
+  "altText": "A Zippity Do Da dahlia: a purple bloom.",
+  "captionShort": "A purple dahlia.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Zippity Do Da",
+   "dahlia",
+   "purple",
+   "cultivar photograph"
+  ],
+  "mediaKey": "hues/cultivar-photos/zippity-do-da.jpg",
+  "mediaType": "image",
+  "nativeHeight": 500,
+  "nativeWidth": 500,
+  "provenance": "game-pool",
+  "slug": "zippity-do-da",
+  "title": "Zippity Do Da",
+  "varietyName": "Zippity Do Da",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/cultivar-photos/zundert-mystery-fox.jpg"
+  ],
+  "altText": "A Zundert Mystery Fox dahlia: a bloom photographed at the park.",
+  "captionShort": "One of the 216 cultivar photographs.",
+  "exhibitStatus": "in",
+  "format": "jpeg",
+  "keywords": [
+   "Zundert Mystery Fox",
+   "dahlia",
+   "pink",
+   "park photograph"
+  ],
+  "mediaKey": "hues/dahlias/zundert-mystery-fox/P1000192-zundert-mystery-fox.jpg",
+  "mediaType": "image",
+  "nativeHeight": 2048,
+  "nativeWidth": 2048,
+  "poolKey": "hues/cultivar-photos/zundert-mystery-fox.jpg",
+  "provenance": "park-camera",
+  "slug": "zundert-mystery-fox",
+  "title": "Zundert Mystery Fox",
+  "varietyName": "Zundert Mystery Fox",
+  "whereUsed": "Dahlias page",
+  "wing": "dahlias"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/anemones.webp"
+  ],
+  "altText": "Botanical watercolor plate of anemones: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — anemones.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Anemones",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/anemones.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "anemones",
+  "title": "Anemones",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/bachelors-buttons.webp"
+  ],
+  "altText": "Botanical watercolor plate of bachelor's buttons: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — bachelor's buttons.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Bachelor's Buttons",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/bachelors-buttons.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "bachelors-buttons",
+  "title": "Bachelor's Buttons",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/ball-dahlias.webp"
+  ],
+  "altText": "Botanical watercolor plate of ball dahlias: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — ball dahlias.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Ball Dahlias",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/ball-dahlias.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "ball-dahlias",
+  "title": "Ball Dahlias",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/bearded-iris.webp"
+  ],
+  "altText": "Botanical watercolor plate of bearded iris: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — bearded iris.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Bearded Iris",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/bearded-iris.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "bearded-iris",
+  "title": "Bearded Iris",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/cactus-dahlias.webp"
+  ],
+  "altText": "Botanical watercolor plate of cactus dahlias: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — cactus dahlias.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Cactus Dahlias",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/cactus-dahlias.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "cactus-dahlias",
+  "title": "Cactus Dahlias",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/calendula.webp"
+  ],
+  "altText": "Botanical watercolor plate of calendula: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — calendula.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Calendula",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/calendula.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "calendula",
+  "title": "Calendula",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/collarette-dahlias.webp"
+  ],
+  "altText": "Botanical watercolor plate of collarette dahlias: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — collarette dahlias.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Collarette Dahlias",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/collarette-dahlias.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "collarette-dahlias",
+  "title": "Collarette Dahlias",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/columbine.webp"
+  ],
+  "altText": "Botanical watercolor plate of columbine: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — columbine.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Columbine",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/columbine.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "columbine",
+  "title": "Columbine",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/cosmos.webp"
+  ],
+  "altText": "Botanical watercolor plate of cosmos: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — cosmos.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Cosmos",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/cosmos.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "cosmos",
+  "title": "Cosmos",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/crocus.webp"
+  ],
+  "altText": "Botanical watercolor plate of crocus: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — crocus.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Crocus",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/crocus.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "crocus",
+  "title": "Crocus",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/daffodils.webp"
+  ],
+  "altText": "Botanical watercolor plate of daffodils: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — daffodils.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Daffodils",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/daffodils.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "daffodils",
+  "title": "Daffodils",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/dahlias-finale.webp"
+  ],
+  "altText": "Botanical watercolor plate of dahlias: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — dahlias.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Dahlias",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/dahlias-finale.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "dahlias-finale",
+  "title": "Dahlias",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/decorative-dahlias.webp"
+  ],
+  "altText": "Botanical watercolor plate of decorative dahlias: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — decorative dahlias.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Decorative Dahlias",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/decorative-dahlias.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "decorative-dahlias",
+  "title": "Decorative Dahlias",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/dinnerplate-dahlias.webp"
+  ],
+  "altText": "Botanical watercolor plate of a dinnerplate dahlia plant: three large blush blooms with green foliage above ground, and the plant's roots and tubers drawn below, on paper.",
+  "captionLong": "One of the museum's 36 botanical plates, and the only register in the collection that shows the whole plant: three blush blooms above ground, and below them the roots and tubers most pictures leave out.",
+  "captionShort": "A whole-plant plate — blooms, foliage, roots and tubers on paper.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "webp",
+  "group": "Botanical plates",
+  "highlightOrder": 5,
+  "keywords": [
+   "Dinnerplate Dahlias",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/dinnerplate-dahlias.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "dinnerplate-dahlias",
+  "title": "Dinnerplate Dahlias",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/dutch-iris.webp"
+  ],
+  "altText": "Botanical watercolor plate of dutch iris: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — dutch iris.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Dutch Iris",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/dutch-iris.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "dutch-iris",
+  "title": "Dutch Iris",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/foxglove.webp"
+  ],
+  "altText": "Botanical watercolor plate of foxglove: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — foxglove.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Foxglove",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/foxglove.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "foxglove",
+  "title": "Foxglove",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/giant-alliums.webp"
+  ],
+  "altText": "Botanical watercolor plate of giant alliums: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — giant alliums.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Giant Alliums",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/giant-alliums.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "giant-alliums",
+  "title": "Giant Alliums",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/grasses-seed-heads.webp"
+  ],
+  "altText": "Botanical watercolor plate of grasses & seed heads: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — grasses & seed heads.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Grasses & Seed Heads",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/grasses-seed-heads.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "grasses-seed-heads",
+  "title": "Grasses & Seed Heads",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/hellebores.webp"
+  ],
+  "altText": "Botanical watercolor plate of hellebores: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — hellebores.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Hellebores",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/hellebores.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "hellebores",
+  "title": "Hellebores",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/hyacinths.webp"
+  ],
+  "altText": "Botanical watercolor plate of hyacinths: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — hyacinths.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Hyacinths",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/hyacinths.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "hyacinths",
+  "title": "Hyacinths",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/iceland-poppies.webp"
+  ],
+  "altText": "Botanical watercolor plate of iceland poppies: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — iceland poppies.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Iceland Poppies",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/iceland-poppies.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "iceland-poppies",
+  "title": "Iceland Poppies",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/larkspur.webp"
+  ],
+  "altText": "Botanical watercolor plate of larkspur: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — larkspur.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Larkspur",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/larkspur.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "larkspur",
+  "title": "Larkspur",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/lilac.webp"
+  ],
+  "altText": "Botanical watercolor plate of lilac: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — lilac.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Lilac",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/lilac.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "lilac",
+  "title": "Lilac",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/nigella.webp"
+  ],
+  "altText": "Botanical watercolor plate of nigella: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — nigella.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Nigella",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/nigella.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "nigella",
+  "title": "Nigella",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/peonies.webp"
+  ],
+  "altText": "Botanical watercolor plate of peonies: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — peonies.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Peonies",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/peonies.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "peonies",
+  "title": "Peonies",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/pompon-dahlias.webp"
+  ],
+  "altText": "Botanical watercolor plate of pompon dahlias: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — pompon dahlias.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Pompon Dahlias",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/pompon-dahlias.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "pompon-dahlias",
+  "title": "Pompon Dahlias",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/poppies.webp"
+  ],
+  "altText": "Botanical watercolor plate of poppies: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — poppies.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Poppies",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/poppies.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "poppies",
+  "title": "Poppies",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/ranunculus.webp"
+  ],
+  "altText": "Botanical watercolor plate of ranunculus: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — ranunculus.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Ranunculus",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/ranunculus.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "ranunculus",
+  "title": "Ranunculus",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/russell-lupine.webp"
+  ],
+  "altText": "Botanical watercolor plate of russell lupine: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — russell lupine.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Russell Lupine",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/russell-lupine.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "russell-lupine",
+  "title": "Russell Lupine",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/scabiosa.webp"
+  ],
+  "altText": "Botanical watercolor plate of scabiosa: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — scabiosa.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Scabiosa",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/scabiosa.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "scabiosa",
+  "title": "Scabiosa",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/snapdragons.webp"
+  ],
+  "altText": "Botanical watercolor plate of snapdragons: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — snapdragons.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Snapdragons",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/snapdragons.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "snapdragons",
+  "title": "Snapdragons",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/stock.webp"
+  ],
+  "altText": "Botanical watercolor plate of stock: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — stock.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Stock",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/stock.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "stock",
+  "title": "Stock",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/sunflowers.webp"
+  ],
+  "altText": "Botanical watercolor plate of sunflowers: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — sunflowers.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Sunflowers",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/sunflowers.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "sunflowers",
+  "title": "Sunflowers",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/sweet-peas.webp"
+  ],
+  "altText": "Botanical watercolor plate of sweet peas: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — sweet peas.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Sweet Peas",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/sweet-peas.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "sweet-peas",
+  "title": "Sweet Peas",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/tulips.webp"
+  ],
+  "altText": "Botanical watercolor plate of tulips: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — tulips.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Tulips",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/tulips.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "tulips",
+  "title": "Tulips",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/flowers/zinnias.webp"
+  ],
+  "altText": "Botanical watercolor plate of zinnias: the whole plant — blooms and foliage above ground, roots below — on paper.",
+  "captionShort": "A whole-plant plate — zinnias.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Botanical plates",
+  "keywords": [
+   "Zinnias",
+   "botanical plate",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/flowers/zinnias.webp",
+  "mediaType": "image",
+  "nativeHeight": 1067,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "zinnias",
+  "title": "Zinnias",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/cards/early-spring.webp"
+  ],
+  "altText": "Watercolor of the first spring flowers at Hues Floral Park — daffodils, hellebores, crocus and hyacinths in the borders.",
+  "captionShort": "The First Flowers painting.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Site paintings",
+  "keywords": [
+   "The First Flowers",
+   "site painting",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/cards/early-spring.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "the-first-flowers",
+  "title": "The First Flowers",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/cards/early-may.webp"
+  ],
+  "altText": "Watercolor of the Mother’s Day beds at Hues Floral Park — ranunculus, anemones, tulips and sweet peas.",
+  "captionShort": "The Spring painting.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Site paintings",
+  "keywords": [
+   "The Mother's Day Beds",
+   "site painting",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/cards/early-may.webp",
+  "mediaType": "image",
+  "nativeHeight": 698,
+  "nativeWidth": 1048,
+  "provenance": "painting",
+  "slug": "the-mothers-day-beds",
+  "title": "The Mother's Day Beds",
+  "whereUsed": "Home page season cards; Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/cards/cottage-beds.webp"
+  ],
+  "altText": "Watercolor of the cottage beds at Hues Floral Park — larkspur, nigella, calendula and foxglove.",
+  "captionShort": "The Summer painting.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Site paintings",
+  "keywords": [
+   "The Cottage Beds",
+   "site painting",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/cards/cottage-beds.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "the-cottage-beds",
+  "title": "The Cottage Beds",
+  "whereUsed": "Home page season cards; Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/cards/may-attractions.webp"
+  ],
+  "altText": "Watercolor of the May borders at Hues Floral Park — lupine, columbine, bearded iris and giant alliums.",
+  "captionShort": "The May Borders painting.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Site paintings",
+  "keywords": [
+   "The May Borders",
+   "site painting",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/cards/may-attractions.webp",
+  "mediaType": "image",
+  "nativeHeight": 698,
+  "nativeWidth": 1048,
+  "provenance": "painting",
+  "slug": "the-may-borders",
+  "title": "The May Borders",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/cards/fall-peak.webp"
+  ],
+  "altText": "Watercolor of the dahlia rows at their September peak at Hues Floral Park.",
+  "captionShort": "The Fall painting.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Site paintings",
+  "keywords": [
+   "Peak Dahlia Season",
+   "site painting",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/cards/fall-peak.webp",
+  "mediaType": "image",
+  "nativeHeight": 1058,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "peak-dahlia-season",
+  "title": "Peak Dahlia Season",
+  "whereUsed": "Home page season cards; Seasons pages",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/seasons/cards/fall-finale.webp"
+  ],
+  "altText": "Watercolor of the dahlia rows in October at Hues Floral Park, turned dusky — burgundy, plum and burnt orange.",
+  "captionShort": "The Fall Finale painting.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Site paintings",
+  "keywords": [
+   "The Fall Finale",
+   "site painting",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/cards/fall-finale.webp",
+  "mediaType": "image",
+  "nativeHeight": 698,
+  "nativeWidth": 1048,
+  "provenance": "painting",
+  "slug": "the-fall-finale",
+  "title": "The Fall Finale",
+  "whereUsed": "Seasons pages",
+  "wing": "art"
+ },
+ {
+  "altText": "Watercolor of the dahlia rows at peak bloom: color-blocked beds of red, burgundy, coral, pink and yellow dahlias receding toward trees and low hills.",
+  "captionShort": "The dahlia rows at peak bloom, in color-blocked beds.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Site paintings",
+  "keywords": [
+   "The Dahlia Rows at Their Peak",
+   "site painting",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/cards/peak-dahlia.webp",
+  "mediaType": "image",
+  "nativeHeight": 698,
+  "nativeWidth": 1048,
+  "provenance": "painting",
+  "slug": "the-dahlia-rows-at-their-peak",
+  "title": "The Dahlia Rows at Their Peak",
+  "wing": "art"
+ },
+ {
+  "altText": "Watercolor panorama of the Hues year — daffodils and ranunculus, lupine and allium borders, cottage beds, and the dahlia rows in fall",
+  "captionShort": "The What's in Season painting.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Site paintings",
+  "keywords": [
+   "The Hues Year",
+   "site painting",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/cards/seasons-hero.webp",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 1600,
+  "provenance": "painting",
+  "slug": "the-hues-year",
+  "title": "The Hues Year",
+  "whereUsed": "What's in Season page",
+  "wing": "art"
+ },
+ {
+  "altText": "Watercolor of a project day at Hues — a freshly planted bed, a wheelbarrow of soil, buckets of tubers and blooms, garden tools and gloves laid out, and stepping stones half-laid along the grass",
+  "captionShort": "The Gather painting.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Site paintings",
+  "keywords": [
+   "A Project Day at Hues",
+   "site painting",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/cards/gather-hero-1080.webp",
+  "mediaType": "image",
+  "nativeHeight": 720,
+  "nativeWidth": 1080,
+  "provenance": "painting",
+  "slug": "a-project-day-at-hues",
+  "title": "A Project Day at Hues",
+  "whereUsed": "Gather page",
+  "wing": "art"
+ },
+ {
+  "altText": "Watercolor of the dahlia beds at Hues with a wheelbarrow of cut flowers, buckets of blooms, a crate of tubers, pathway pavers, and a tray of seedlings",
+  "captionShort": "Dahlia beds with a wheelbarrow of cut flowers, ready for volunteers.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Site paintings",
+  "keywords": [
+   "Dahlia Beds with a Wheelbarrow of Blooms",
+   "site painting",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/cards/help-hero-1080.webp",
+  "mediaType": "image",
+  "nativeHeight": 720,
+  "nativeWidth": 1080,
+  "provenance": "painting",
+  "slug": "dahlia-beds-with-a-wheelbarrow-of-blooms",
+  "title": "Dahlia Beds with a Wheelbarrow of Blooms",
+  "whereUsed": "Volunteer page",
+  "wing": "art"
+ },
+ {
+  "altText": "Watercolor of dahlia beds at dusk under string lights, with glowing music notes drifting over the rows, inside a painted paper border.",
+  "captionLong": "The hero of the Music page on both the desktop and phone sites — the painting that stands for the park's music wherever the music is introduced.",
+  "captionShort": "Dusk over the dahlia beds, string lights on, notes in the air.",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "webp",
+  "group": "Site paintings",
+  "highlightOrder": 9,
+  "keywords": [
+   "Music Over the Beds",
+   "site painting",
+   "watercolor"
+  ],
+  "mediaKey": "hues/m-art/cards/music-hero-1080.webp",
+  "mediaType": "image",
+  "nativeHeight": 720,
+  "nativeWidth": 1080,
+  "provenance": "painting",
+  "slug": "music-over-the-beds",
+  "title": "Music Over the Beds",
+  "whereUsed": "Music page",
+  "wing": "art"
+ },
+ {
+  "aliases": [
+   "hues/m-art/procession-full.webp",
+   "hues/m-art/procession.png",
+   "hues/m-art/procession-full.png",
+   "hues/home/procession.webp"
+  ],
+  "altText": "Watercolor of the cottage flower beds at Hues: a duck, a goose, Bella the dog and Hue the rabbit walk in procession up a stone path toward a rainbow at the vanishing point; the upper half of the painting is pale, empty sky.",
+  "captionLong": "The painting the park's art is measured against — it opens the phone home. The upper half is pale sky, left empty on purpose; everything the picture is doing happens on the path below, where the procession is coming up between the beds toward the rainbow.",
+  "captionShort": "The cottage beds, and the animals coming up the stone path.",
+  "cropFocus": "50% 72%",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "webp",
+  "group": "Site paintings",
+  "highlightOrder": 1,
+  "keywords": [
+   "The Procession",
+   "painting",
+   "watercolor",
+   "procession",
+   "rainbow"
+  ],
+  "mediaKey": "hues/m-art/painting-1080.webp",
+  "mediaType": "image",
+  "nativeHeight": 720,
+  "nativeWidth": 1080,
+  "provenance": "painting",
+  "slug": "the-procession",
+  "title": "The Procession",
+  "whereUsed": "Home page hero (phone site)",
+  "wing": "art"
+ },
+ {
+  "altText": "Watercolor of Dusty the gardener, Hue the white rabbit and Cocoa the brown rabbit, all three in overalls, standing in front of the Hues Floral Park stand with dahlias in the foreground and string lights above. Painted lettering on the stand reads \"HUES FLORAL PARK\"; their name tags read \"Dusty\", \"Hue\" and \"Cocoa\".",
+  "captionLong": "Painted for the arcade hub, where it still fronts the games. The lettering is part of the painting — HUES FLORAL PARK across the stand, and a name tag on each of the three.",
+  "captionShort": "The arcade's own hero — Dusty, Hue and Cocoa in overalls in front of the stand.",
+  "cropFocus": "50% 40%",
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "webp",
+  "group": "More from the Arcade",
+  "highlightOrder": 7,
+  "keywords": [
+   "Dusty",
+   "Hue",
+   "Cocoa",
+   "arcade",
+   "hero"
+  ],
+  "mediaKey": "hues/play/arcade-hero-trio.webp",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 1200,
+  "provenance": "painting",
+  "slug": "dusty-hue-and-cocoa",
+  "title": "Dusty, Hue & Cocoa",
+  "whereUsed": "Arcade hub",
+  "wing": "arcade"
+ },
+ {
+  "altText": "Hue and Cocoa, the Hues Floral Park rabbits, in front of the Penny-Arcade Flowers stall: Hue, a white rabbit in green overalls, holds a microphone; Cocoa, a brown rabbit in pink overalls with a pink bow, stands beside her. The stall sign reads 'Hues Floral Park • Penny-Arcade Flowers'; their name tags read 'Hue' and 'Cocoa'.",
+  "captionShort": "Hue and Cocoa at the penny-arcade flower stall.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "More from the Arcade",
+  "keywords": [
+   "Hue",
+   "Cocoa",
+   "penny-arcade",
+   "stall"
+  ],
+  "mediaKey": "hues/play/arcade-hero.webp",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 1200,
+  "provenance": "painting",
+  "slug": "the-penny-arcade-flowers-stall",
+  "title": "The Penny-Arcade Flowers Stall",
+  "wing": "arcade"
+ },
+ {
+  "altText": "Hue and Cocoa, the Hues Floral Park rabbits, on their game-show stage among the dahlias",
+  "captionShort": "Hue and Cocoa on their game-show stage, among the dahlias.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "More from the Arcade",
+  "keywords": [
+   "Hue",
+   "Cocoa",
+   "stage",
+   "Hues Play"
+  ],
+  "mediaKey": "hues/play/hue-cocoa-hero.webp",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 1200,
+  "provenance": "painting",
+  "slug": "hue-and-cocoa-on-stage",
+  "title": "Hue & Cocoa on Stage",
+  "whereUsed": "Hues Play home",
+  "wing": "arcade"
+ },
+ {
+  "altText": "Hue, a white rabbit in green overalls; her name tag reads ‘Hue’.",
+  "captionShort": "Hue's portrait — the white rabbit who hosts the games.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "More from the Arcade",
+  "keywords": [
+   "Hue",
+   "portrait",
+   "avatar"
+  ],
+  "mediaKey": "hues/play/hue-avatar.webp",
+  "mediaType": "image",
+  "nativeHeight": 240,
+  "nativeWidth": 240,
+  "provenance": "painting",
+  "renderWidthCap": 240,
+  "slug": "hue-host-portrait",
+  "title": "Hue — Host Portrait",
+  "wing": "arcade"
+ },
+ {
+  "altText": "Cocoa, a brown rabbit in pink overalls with a pink bow; the name tag reads ‘Cocoa’.",
+  "captionShort": "Cocoa's portrait — the brown rabbit who co-hosts the games.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "More from the Arcade",
+  "keywords": [
+   "Cocoa",
+   "portrait",
+   "avatar"
+  ],
+  "mediaKey": "hues/play/cocoa-avatar.webp",
+  "mediaType": "image",
+  "nativeHeight": 240,
+  "nativeWidth": 240,
+  "provenance": "painting",
+  "renderWidthCap": 240,
+  "slug": "cocoa-host-portrait",
+  "title": "Cocoa — Host Portrait",
+  "wing": "arcade"
+ },
+ {
+  "altText": "The This or That? banner: two dahlia plants face off on paper — coral blooms on the left, magenta blooms on the right — with a gold winner's medal between them.",
+  "captionShort": "Finished art from This or That?.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "This or That?",
+  "keywords": [
+   "This or That?",
+   "banner",
+   "dahlias"
+  ],
+  "mediaKey": "hues/play/tot-banner.webp",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 1200,
+  "provenance": "painting",
+  "slug": "this-or-that-banner",
+  "title": "This or That? Banner",
+  "wing": "arcade"
+ },
+ {
+  "altText": "Hue and Cocoa at the Hues Floral Park stand, each holding a bouquet of pink dahlias with a prize rosette — a blue ribbon for Hue, a red ribbon for Cocoa. Their name tags read 'Hue' and 'Cocoa'.",
+  "captionShort": "Finished art from This or That?.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "This or That?",
+  "keywords": [
+   "This or That?",
+   "banner",
+   "ribbons",
+   "Hue",
+   "Cocoa"
+  ],
+  "mediaKey": "hues/play/tot-banner-ribbons.webp",
+  "mediaType": "image",
+  "nativeHeight": 800,
+  "nativeWidth": 1200,
+  "provenance": "painting",
+  "slug": "this-or-that-ribbon-banner",
+  "title": "This or That? Ribbon Banner",
+  "wing": "arcade"
+ },
+ {
+  "altText": "A watercolor portrait of asters blooms on paper.",
+  "captionShort": "One of the twelve Season Blooms — painted bloom portraits on paper.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Season Blooms",
+  "keywords": [
+   "Asters",
+   "Season Blooms",
+   "watercolor"
+  ],
+  "mediaKey": "hues/arcade-games/season-asters.webp",
+  "mediaType": "image",
+  "nativeHeight": 427,
+  "nativeWidth": 480,
+  "provenance": "painting",
+  "slug": "season-bloom-asters",
+  "title": "Asters",
+  "whereUsed": "Season Sort game",
+  "wing": "arcade"
+ },
+ {
+  "altText": "A watercolor portrait of cosmos blooms on paper.",
+  "captionShort": "One of the twelve Season Blooms — painted bloom portraits on paper.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Season Blooms",
+  "keywords": [
+   "Cosmos",
+   "Season Blooms",
+   "watercolor"
+  ],
+  "mediaKey": "hues/arcade-games/season-cosmos.webp",
+  "mediaType": "image",
+  "nativeHeight": 426,
+  "nativeWidth": 480,
+  "provenance": "painting",
+  "slug": "season-bloom-cosmos",
+  "title": "Cosmos",
+  "whereUsed": "Season Sort game",
+  "wing": "arcade"
+ },
+ {
+  "altText": "A watercolor portrait of dahlias blooms on paper.",
+  "captionShort": "One of the twelve Season Blooms — painted bloom portraits on paper.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Season Blooms",
+  "keywords": [
+   "Dahlias",
+   "Season Blooms",
+   "watercolor"
+  ],
+  "mediaKey": "hues/arcade-games/season-dahlias.webp",
+  "mediaType": "image",
+  "nativeHeight": 427,
+  "nativeWidth": 480,
+  "provenance": "painting",
+  "slug": "season-bloom-dahlias",
+  "title": "Dahlias",
+  "whereUsed": "Season Sort game",
+  "wing": "arcade"
+ },
+ {
+  "altText": "A watercolor portrait of dutch iris blooms on paper.",
+  "captionShort": "One of the twelve Season Blooms — painted bloom portraits on paper.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Season Blooms",
+  "keywords": [
+   "Dutch Iris",
+   "Season Blooms",
+   "watercolor"
+  ],
+  "mediaKey": "hues/arcade-games/season-dutch-iris.webp",
+  "mediaType": "image",
+  "nativeHeight": 427,
+  "nativeWidth": 480,
+  "provenance": "painting",
+  "slug": "season-bloom-dutch-iris",
+  "title": "Dutch Iris",
+  "whereUsed": "Season Sort game",
+  "wing": "arcade"
+ },
+ {
+  "altText": "A watercolor portrait of japanese anemone blooms on paper.",
+  "captionShort": "One of the twelve Season Blooms — painted bloom portraits on paper.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Season Blooms",
+  "keywords": [
+   "Japanese Anemone",
+   "Season Blooms",
+   "watercolor"
+  ],
+  "mediaKey": "hues/arcade-games/season-japanese-anemone.webp",
+  "mediaType": "image",
+  "nativeHeight": 427,
+  "nativeWidth": 480,
+  "provenance": "painting",
+  "slug": "season-bloom-japanese-anemone",
+  "title": "Japanese Anemone",
+  "whereUsed": "Season Sort game",
+  "wing": "arcade"
+ },
+ {
+  "altText": "A watercolor portrait of larkspur blooms on paper.",
+  "captionShort": "One of the twelve Season Blooms — painted bloom portraits on paper.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Season Blooms",
+  "keywords": [
+   "Larkspur",
+   "Season Blooms",
+   "watercolor"
+  ],
+  "mediaKey": "hues/arcade-games/season-larkspur.webp",
+  "mediaType": "image",
+  "nativeHeight": 426,
+  "nativeWidth": 480,
+  "provenance": "painting",
+  "slug": "season-bloom-larkspur",
+  "title": "Larkspur",
+  "whereUsed": "Season Sort game",
+  "wing": "arcade"
+ },
+ {
+  "altText": "A watercolor portrait of lupine blooms on paper.",
+  "captionShort": "One of the twelve Season Blooms — painted bloom portraits on paper.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Season Blooms",
+  "keywords": [
+   "Lupine",
+   "Season Blooms",
+   "watercolor"
+  ],
+  "mediaKey": "hues/arcade-games/season-lupine.webp",
+  "mediaType": "image",
+  "nativeHeight": 427,
+  "nativeWidth": 480,
+  "provenance": "painting",
+  "slug": "season-bloom-lupine",
+  "title": "Lupine",
+  "whereUsed": "Season Sort game",
+  "wing": "arcade"
+ },
+ {
+  "altText": "A watercolor portrait of mums blooms on paper.",
+  "captionShort": "One of the twelve Season Blooms — painted bloom portraits on paper.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Season Blooms",
+  "keywords": [
+   "Mums",
+   "Season Blooms",
+   "watercolor"
+  ],
+  "mediaKey": "hues/arcade-games/season-mums.webp",
+  "mediaType": "image",
+  "nativeHeight": 427,
+  "nativeWidth": 480,
+  "provenance": "painting",
+  "slug": "season-bloom-mums",
+  "title": "Mums",
+  "whereUsed": "Season Sort game",
+  "wing": "arcade"
+ },
+ {
+  "altText": "A watercolor portrait of ranunculus blooms on paper.",
+  "captionShort": "One of the twelve Season Blooms — painted bloom portraits on paper.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Season Blooms",
+  "keywords": [
+   "Ranunculus",
+   "Season Blooms",
+   "watercolor"
+  ],
+  "mediaKey": "hues/arcade-games/season-ranunculus.webp",
+  "mediaType": "image",
+  "nativeHeight": 427,
+  "nativeWidth": 480,
+  "provenance": "painting",
+  "slug": "season-bloom-ranunculus",
+  "title": "Ranunculus",
+  "whereUsed": "Season Sort game",
+  "wing": "arcade"
+ },
+ {
+  "altText": "A watercolor portrait of sunflowers blooms on paper.",
+  "captionShort": "One of the twelve Season Blooms — painted bloom portraits on paper.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Season Blooms",
+  "keywords": [
+   "Sunflowers",
+   "Season Blooms",
+   "watercolor"
+  ],
+  "mediaKey": "hues/arcade-games/season-sunflowers.webp",
+  "mediaType": "image",
+  "nativeHeight": 426,
+  "nativeWidth": 480,
+  "provenance": "painting",
+  "slug": "season-bloom-sunflowers",
+  "title": "Sunflowers",
+  "whereUsed": "Season Sort game",
+  "wing": "arcade"
+ },
+ {
+  "altText": "A watercolor portrait of tulips blooms on paper.",
+  "captionShort": "One of the twelve Season Blooms — painted bloom portraits on paper.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Season Blooms",
+  "keywords": [
+   "Tulips",
+   "Season Blooms",
+   "watercolor"
+  ],
+  "mediaKey": "hues/arcade-games/season-tulips.webp",
+  "mediaType": "image",
+  "nativeHeight": 427,
+  "nativeWidth": 480,
+  "provenance": "painting",
+  "slug": "season-bloom-tulips",
+  "title": "Tulips",
+  "whereUsed": "Season Sort game",
+  "wing": "arcade"
+ },
+ {
+  "altText": "A watercolor portrait of zinnias blooms on paper.",
+  "captionShort": "One of the twelve Season Blooms — painted bloom portraits on paper.",
+  "exhibitStatus": "in",
+  "format": "webp",
+  "group": "Season Blooms",
+  "keywords": [
+   "Zinnias",
+   "Season Blooms",
+   "watercolor"
+  ],
+  "mediaKey": "hues/arcade-games/season-zinnias.webp",
+  "mediaType": "image",
+  "nativeHeight": 426,
+  "nativeWidth": 480,
+  "provenance": "painting",
+  "slug": "season-bloom-zinnias",
+  "title": "Zinnias",
+  "whereUsed": "Season Sort game",
+  "wing": "arcade"
+ },
+ {
+  "altText": "Detail crop of the Hue & Cocoa stage scene: Cocoa close-up at left, dahlias and the lit stage frame at right.",
+  "captionShort": "A detail crop of the stage scene.",
+  "exhibitStatus": "out",
+  "format": "webp",
+  "group": "More from the Arcade",
+  "keywords": [
+   "stage",
+   "detail crop",
+   "Cocoa"
+  ],
+  "mediaKey": "hues/play/stage-detail.webp",
+  "mediaType": "image",
+  "nativeHeight": 640,
+  "nativeWidth": 930,
+  "provenance": "painting",
+  "slug": "stage-detail",
+  "statusReason": "Detail crop of the Hue & Cocoa stage scene (hue-and-cocoa-on-stage), recorded out on the catalog pass per Elena §5 and the pilot watch-list: a crop of another exhibit, not a piece in its own right.",
+  "title": "Stage — Detail Crop",
+  "wing": "arcade"
+ },
+ {
+  "captionShort": "The sung recording — 3:34. No second recording of this song is in the collection.",
+  "durationSec": 214,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Petals Open, Pale and New",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/01-petals-open.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "petals-open-pale-and-new",
+  "title": "Petals Open, Pale and New",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 3:22. The instrumental recording is on this page.",
+  "companionSlug": "petal-opener-instrumental",
+  "durationSec": 202,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Petal Opener",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/03-petal-opener.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "petal-opener",
+  "title": "Petal Opener",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 2:58. The sung recording is on this page.",
+  "companionSlug": "petal-opener",
+  "durationSec": 178,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Petal Opener",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/02-petal-opener.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "petal-opener-instrumental",
+  "title": "Petal Opener",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 3:23. The instrumental recording is on this page.",
+  "companionSlug": "clippers-in-hand-instrumental",
+  "durationSec": 203,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Clippers in Hand",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/05-clippers-in-hand.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "clippers-in-hand",
+  "title": "Clippers in Hand",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 3:17. The sung recording is on this page.",
+  "companionSlug": "clippers-in-hand",
+  "durationSec": 197,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Clippers in Hand",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/04-clippers-in-hand.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "clippers-in-hand-instrumental",
+  "title": "Clippers in Hand",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 2:52. The instrumental recording is on this page.",
+  "companionSlug": "hummin-with-the-bees-instrumental",
+  "durationSec": 172,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Hummin’ with the Bees",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/07-hummin-with-the-bees.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "hummin-with-the-bees",
+  "title": "Hummin’ with the Bees",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 3:00. The sung recording is on this page.",
+  "companionSlug": "hummin-with-the-bees",
+  "durationSec": 180,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Hummin’ with the Bees",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/08-hummin-with-the-bees.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "hummin-with-the-bees-instrumental",
+  "title": "Hummin’ with the Bees",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionLong": "If it sounds familiar from the radio spots, it should: the instrumental recording is the bed under the park’s current advertising. The sung version is on this page too.",
+  "captionShort": "The tune from the park's ads.",
+  "companionSlug": "zinnia-sky-instrumental",
+  "durationSec": 202,
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "mp3",
+  "highlightOrder": 8,
+  "keywords": [
+   "Zinnia Sky",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/09-zinnia-sky.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "zinnia-sky",
+  "title": "Zinnia Sky",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 3:10. The sung recording is on this page.",
+  "companionSlug": "zinnia-sky",
+  "durationSec": 190,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Zinnia Sky",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/10-zinnia-sky.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "zinnia-sky-instrumental",
+  "title": "Zinnia Sky",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 4:35. No second recording of this song is in the collection.",
+  "durationSec": 275,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "September at Hues",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/11-september-at-hues.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "september-at-hues",
+  "title": "September at Hues",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 3:12. The instrumental recording is on this page.",
+  "companionSlug": "sunflower-smile-instrumental",
+  "durationSec": 192,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Sunflower Smile",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/13-sunflower-smile.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "sunflower-smile",
+  "title": "Sunflower Smile",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 3:04. The sung recording is on this page.",
+  "companionSlug": "sunflower-smile",
+  "durationSec": 184,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Sunflower Smile",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/14-sunflower-smile.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "sunflower-smile-instrumental",
+  "title": "Sunflower Smile",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 2:58. The instrumental recording is on this page.",
+  "companionSlug": "the-creek-beside-instrumental",
+  "durationSec": 178,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "The Creek Beside",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/15-the-creek-beside.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "the-creek-beside",
+  "title": "The Creek Beside",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 2:23. The sung recording is on this page.",
+  "companionSlug": "the-creek-beside",
+  "durationSec": 143,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "The Creek Beside",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/16-the-creek-beside.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "the-creek-beside-instrumental",
+  "title": "The Creek Beside",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 3:07. The instrumental recording is on this page.",
+  "companionSlug": "butterfly-waltz-instrumental",
+  "durationSec": 187,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Butterfly Waltz",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/17-butterfly-waltz.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "butterfly-waltz",
+  "title": "Butterfly Waltz",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 2:45. The sung recording is on this page.",
+  "companionSlug": "butterfly-waltz",
+  "durationSec": 165,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Butterfly Waltz",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/18-butterfly-waltz.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "butterfly-waltz-instrumental",
+  "title": "Butterfly Waltz",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 5:53. No second recording of this song is in the collection.",
+  "durationSec": 353,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Imagine a Place",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/19-imagine-a-place.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "imagine-a-place",
+  "title": "Imagine a Place",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 3:22. The instrumental recording is on this page.",
+  "companionSlug": "petals-on-the-breeze-instrumental",
+  "durationSec": 202,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Petals on the Breeze",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/21-petals-on-the-breeze.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "petals-on-the-breeze",
+  "title": "Petals on the Breeze",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 3:34. The sung recording is on this page.",
+  "companionSlug": "petals-on-the-breeze",
+  "durationSec": 214,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Petals on the Breeze",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/20-petals-on-the-breeze.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "petals-on-the-breeze-instrumental",
+  "title": "Petals on the Breeze",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 3:32. The instrumental recording is on this page.",
+  "companionSlug": "somewhere-in-the-rows-instrumental",
+  "durationSec": 212,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Somewhere in the Rows",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/23-somewhere-in-the-rows.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "somewhere-in-the-rows",
+  "title": "Somewhere in the Rows",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 3:16. The sung recording is on this page.",
+  "companionSlug": "somewhere-in-the-rows",
+  "durationSec": 196,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Somewhere in the Rows",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/22-somewhere-in-the-rows.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "somewhere-in-the-rows-instrumental",
+  "title": "Somewhere in the Rows",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 3:10. The instrumental recording is on this page.",
+  "companionSlug": "colors-i-cant-name-instrumental",
+  "durationSec": 190,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Colors I Can’t Name",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/25-colors-i-cant-name.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "colors-i-cant-name",
+  "title": "Colors I Can’t Name",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 2:58. The sung recording is on this page.",
+  "companionSlug": "colors-i-cant-name",
+  "durationSec": 178,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Colors I Can’t Name",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/24-colors-i-cant-name.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "colors-i-cant-name-instrumental",
+  "title": "Colors I Can’t Name",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 3:23. The instrumental recording is on this page.",
+  "companionSlug": "slow-wanderer-instrumental",
+  "durationSec": 203,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Slow Wanderer",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/29-slow-wanderer.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "slow-wanderer",
+  "title": "Slow Wanderer",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 3:24. The sung recording is on this page.",
+  "companionSlug": "slow-wanderer",
+  "durationSec": 204,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Slow Wanderer",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/26-slow-wanderer.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "slow-wanderer-instrumental",
+  "title": "Slow Wanderer",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 3:06. The instrumental recording is on this page.",
+  "companionSlug": "the-quiet-corner-instrumental",
+  "durationSec": 186,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "The Quiet Corner",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/31-the-quiet-corner.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "the-quiet-corner",
+  "title": "The Quiet Corner",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 3:02. The sung recording is on this page.",
+  "companionSlug": "the-quiet-corner",
+  "durationSec": 182,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "The Quiet Corner",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/28-the-quiet-corner.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "the-quiet-corner-instrumental",
+  "title": "The Quiet Corner",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 2:57. The instrumental recording is on this page.",
+  "companionSlug": "rain-kissed-petals-instrumental",
+  "durationSec": 177,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Rain-Kissed Petals",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/33-rain-kissed-petals.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "rain-kissed-petals",
+  "title": "Rain-Kissed Petals",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 3:13. The sung recording is on this page.",
+  "companionSlug": "rain-kissed-petals",
+  "durationSec": 193,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Rain-Kissed Petals",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/30-rain-kissed-petals.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "rain-kissed-petals-instrumental",
+  "title": "Rain-Kissed Petals",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 3:33. The instrumental recording is on this page.",
+  "companionSlug": "bloom-where-youre-planted-instrumental",
+  "durationSec": 213,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Bloom Where You’re Planted",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/35-bloom-where-youre-planted.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "bloom-where-youre-planted",
+  "title": "Bloom Where You’re Planted",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 3:02. The sung recording is on this page.",
+  "companionSlug": "bloom-where-youre-planted",
+  "durationSec": 182,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Bloom Where You’re Planted",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/32-bloom-where-youre-planted.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "bloom-where-youre-planted-instrumental",
+  "title": "Bloom Where You’re Planted",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 3:33. The instrumental recording is on this page.",
+  "companionSlug": "soft-light-serenade-instrumental",
+  "durationSec": 213,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Soft Light Serenade",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/37-soft-light-serenade.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "soft-light-serenade",
+  "title": "Soft Light Serenade",
+  "voice": "vocal",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 3:08. The sung recording is on this page.",
+  "companionSlug": "soft-light-serenade",
+  "durationSec": 188,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Soft Light Serenade",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/34-soft-light-serenade.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "soft-light-serenade-instrumental",
+  "title": "Soft Light Serenade",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 2:53. No sung recording of this song is in the collection.",
+  "durationSec": 173,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Rows of Color",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/06-rows-of-color.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "rows-of-color",
+  "title": "Rows of Color",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 2:47. No sung recording of this song is in the collection.",
+  "durationSec": 167,
+  "exhibitStatus": "out",
+  "format": "mp3",
+  "keywords": [
+   "Dancin’ in the Dirt",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/12-dancin-in-the-dirt.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "dancin-in-the-dirt",
+  "statusReason": "Held out on the catalog pass: Dustin banned this song on 2026-11-01 ('too country — do not use it for anything') and approved removing it from the park loop on 2026-11-02, though the file still sits in the site's Music page record. Needs a ruling from Hue/Dustin before it hangs; recorded here so the shortfall is explicit, never silent.",
+  "title": "Dancin’ in the Dirt",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The instrumental recording — 2:58. No sung recording of this song is in the collection.",
+  "durationSec": 178,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Thank You Garden",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/36-thank-you-garden.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "thank-you-garden",
+  "title": "Thank You Garden",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The park's signature song, named for its own statement.",
+  "durationSec": 172,
+  "exhibitStatus": "in",
+  "featured": true,
+  "format": "mp3",
+  "highlightOrder": 4,
+  "keywords": [
+   "A Little World Apart",
+   "song",
+   "instrumental",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/38-a-little-world-apart.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "a-little-world-apart",
+  "title": "A Little World Apart",
+  "voice": "instrumental",
+  "wing": "music"
+ },
+ {
+  "captionShort": "The sung recording — 2:12. No second recording of this song is in the collection.",
+  "durationSec": 132,
+  "exhibitStatus": "in",
+  "format": "mp3",
+  "keywords": [
+   "Pickin’ Flowers, Dancin’ for Hours",
+   "song",
+   "sung",
+   "park music"
+  ],
+  "mediaKey": "music/tracks/27-pickin-flowers-dancin-for-hours.mp3",
+  "mediaType": "audio",
+  "provenance": "recording",
+  "slug": "pickin-flowers-dancin-for-hours",
+  "title": "Pickin’ Flowers, Dancin’ for Hours",
+  "voice": "vocal",
+  "wing": "music"
+ }
+]
